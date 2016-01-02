@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import codecs
 import html2text
 import re
+import os
 
 
 try:
