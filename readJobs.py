@@ -6,9 +6,12 @@ from bs4 import BeautifulSoup
 import codecs
 import html2text
 import re
-from settings import indeedAPIKey
 
 
+try:
+    from settings import indeedAPIKey
+except ImportError:
+    print "In development env"
 
 # Figuring out the maximum number of entries, creating a file, running read_in jobs
 def mainReadJobs(searchJobs):

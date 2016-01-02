@@ -12,7 +12,12 @@ import markovgen
 import codecs
 import random
 
-from settings import postgresPasswordLocal, SECRET_KEY 
+try:
+    from settings import postgresPasswordLocal, SECRET_KEY 
+except ImportError:
+    SECRET_KEY = S3Client(os.environ['SECRET_KEY'])
+    print "In development env"
+
 
 SQLALCHEMY_TRACK_MODIFICATIONS = True
 
