@@ -14,10 +14,10 @@ import random
 
 from settings import postgresPasswordLocal, SECRET_KEY 
 
-SQLALCHEMY_TRACK_MODIFICATIONS = False
+SQLALCHEMY_TRACK_MODIFICATIONS = True
 
-DEBUG = False
-TESTING = False
+DEBUG = True
+TESTING = True
 HEROKU = True
 
 
