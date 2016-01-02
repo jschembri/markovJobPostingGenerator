@@ -1,0 +1,71 @@
+<!doctype html>
+<title>Markov Job Posting Generator</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+{% with jobtitleMsg = get_flashed_messages(category_filter=["jobtitleMsg"]) %}
+{% with theOpenings = get_flashed_messages(category_filter=["theOpening"]) %}
+{% with theClosings = get_flashed_messages(category_filter=["theClosing"]) %}
+{% with bulletHeaders = get_flashed_messages(category_filter=["bulletHeader"]) %}
+
+
+{% with bullets = get_flashed_messages(category_filter=["bullets"]) %}
+{% with errors = get_flashed_messages(category_filter=["error"]) %}
+
+<div class=page>
+  <h1>Markov Job Posting Generator</h1>
+  <p> Create pseudo-random job postings based on Markov Chains of job postings. Enter in a job title, click submit and have a laugh on some plausible job postings. </p>
+  <div class=metanav>
+  </div>
+
+      {% if errors %}
+  {% for error in errors %}
+    <div class=error> {{ error }}  </div>
+  {% endfor %}
+
+  {% else %}
+
+  {% if jobtitleMsg %}
+    {% for jobTitle in jobtitleMsg %}
+    <div class=flash> {{ jobTitle }} </div>
+  {% endfor %}
+  {% endif %}
+
+  {% if theOpenings %}
+   <div class=flash> 
+
+  {% for theOpening in theOpenings %}
+    {{ theOpening | safe  }} 
+  {% endfor %}
+  <br>
+    {% for bulletHeader in bulletHeaders %}
+    {{ bulletHeader | safe  }} 
+  {% endfor %}
+  <br>
+
+
+ {% for bullet in bullets %}
+    {{ bullet | safe  }} 
+  {% endfor %} 
+
+<br>
+  {% for theClosing in theClosings %}
+    {{ theClosing | safe  }} 
+  {% endfor %}
+
+
+  </div>
+ {% endif %}
+  
+
+ {% endif %}
+
+  {% block body %}{% endblock %}
+  <p> Designed by <a href="http://jeremyschembri.com">Jeremy Schembri</a> </p>
+  <p> Find the code at <a href="http://jeremyschembri.com">Github</a> </p>
+</div>
+
+{% endwith %}
+{% endwith %}
+{% endwith %}
+{% endwith %}
+{% endwith %}
+{% endwith %}
