@@ -16,7 +16,6 @@ try:
     from settings import postgresPasswordLocal, SECRET_KEY 
 except ImportError:
     SECRET_KEY = os.environ['SECRET_KEY']
-    print "In development env"
 
 
 SQLALCHEMY_TRACK_MODIFICATIONS = True

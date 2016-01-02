@@ -11,7 +11,7 @@ import re
 try:
     from settings import indeedAPIKey
 except ImportError:
-    print "In development env"
+    indeedAPIKey = os.environ['indeedAPIKey']
 
 # Figuring out the maximum number of entries, creating a file, running read_in jobs
 def mainReadJobs(searchJobs):
