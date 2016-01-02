@@ -15,7 +15,7 @@ import random
 try:
     from settings import postgresPasswordLocal, SECRET_KEY 
 except ImportError:
-    SECRET_KEY = S3Client(os.environ['SECRET_KEY'])
+    SECRET_KEY = os.environ['SECRET_KEY']
     print "In development env"
 
 
