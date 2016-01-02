@@ -18,7 +18,7 @@ SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 DEBUG = False
 TESTING = False
-HEROKU = False
+HEROKU = True
 
 
 #Create our little application :)
