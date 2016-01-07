@@ -11,7 +11,7 @@
 {% with errors = get_flashed_messages(category_filter=["error"]) %}
 
 <div class=page>
-  <h1>Markov Job Posting Generator</h1>
+  <h1> <a href="/">Markov Job Posting Generator</a> </h1>
   <p> Create pseudo-random job postings based on Markov Chains of job postings. Enter in a job title, click submit and have a laugh on some plausible job postings. </p>
   <div class=metanav>
   </div>
@@ -59,6 +59,7 @@
  {% endif %}
 
   {% block body %}{% endblock %}
+  <p> Most searches job title at <a href="/top">Frequent Searches</a> </p>
   <p> Designed by <a href="http://jeremyschembri.com">Jeremy Schembri</a> </p>
   <p> Find the code at <a href="https://github.com/jschembri/markovJobPostingGenerator">Github</a> </p>
 </div>

@@ -28,7 +28,7 @@ def mainReadJobs(searchJobs):
    tree = ET.fromstring(xmlPage)
    maximumJobs = tree[4].text
    i = 0
-   limit = 100
+   limit = 5
    while(i < maximumJobs and i < limit):
       start = i
       if limit < 25:

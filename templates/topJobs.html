@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block body %}
+<h2> Most Searched Job Titles </h2>
+  <ul class=entries>
+  {% for entry in entries %}
+    <li><h4>{{ entry.jobtitle }}:  {{entry.searches}} </h4> </li>
+  {% else %}
+    <li><em>Unbelievable.  No entries here so far</em>
+  {% endfor %}
+  </ul>
+{% endblock %}

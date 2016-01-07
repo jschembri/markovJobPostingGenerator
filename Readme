@@ -1,3 +1,24 @@
 Readme
 
 Add instructions later
+
+
+# To inialize db on local host do:
+# more information at: http://blog.sahildiwan.com/posts/flask-and-postgresql-app-deployed-on-heroku/
+#$ python
+#>>> from app import db
+#>>> db.create_all()
+#>>> exit()
+
+
+# How to remake database...everything is deleted
+from markovJobPostingGenerator import *
+db.reflect()
+db.drop_all()
+
+
+#How to add an entry
+>>> from yourapp import User
+>>> me = User('admin', 'admin@example.com')
+>>> db.session.add(me)
+>>> db.session.commit()

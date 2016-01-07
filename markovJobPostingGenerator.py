@@ -6,6 +6,7 @@ from flask import Flask, request, session, g, redirect, url_for, \
      abort, render_template, flash
 from contextlib import closing
 from flask.ext.sqlalchemy import SQLAlchemy
+from sqlalchemy import desc
 
 import readJobs
 import markovgen
@@ -14,15 +15,17 @@ import random
 
 try:
     from settings import postgresPasswordLocal, SECRET_KEY 
+    HEROKU = False
 except ImportError:
     SECRET_KEY = os.environ['SECRET_KEY']
+    HEROKU = True
 
 
 SQLALCHEMY_TRACK_MODIFICATIONS = True
 
 DEBUG = True
 TESTING = True
-HEROKU = True
+#HEROKU = True
 
 
 #Create our little application :)
@@ -41,10 +44,29 @@ db = SQLAlchemy(app)
 class JobSearches(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     jobtitle = db.Column(db.String(200))
+    searches = db.Column(db.Integer)
     def __init__(self, jobtitle):
         self.jobtitle = jobtitle
+        self.searches = 1
+    def __str__(self):
+       return '<Job: %r>' % self.jobtitle
     def __repr__(self):
-        return '<Job: %r>' % self.jobtitle
+       return '<Job: %r>' % self.jobtitle
+    def add_searches(self):
+       self.searches += 1       
+
+
+def addInDatabase(jobtitle):
+  jobtitle = jobtitle.title()
+  job = JobSearches.query.filter_by(jobtitle=jobtitle).first()
+  if job is None:
+    newJob = JobSearches(jobtitle)
+    db.session.add(newJob)
+    db.session.commit()
+  else:
+    job.add_searches()
+    db.session.commit()
+
 
 
 
@@ -52,7 +74,6 @@ class JobSearches(db.Model):
 #
 @app.route('/')
 def show_entries():
-   cur = JobSearches.query.all()
    entries = []
    return render_template('funny_jobs.html', entries=entries)
 
@@ -60,9 +81,12 @@ def show_entries():
 def add_entry():
    #g.db.execute('insert into entries (title, text) values (?, ?)', [request.form['title'], request.form['text']])
    #g.db.commit()
+   spacedJobTitle = request.form['jobtitle']
    jobTitle = request.form['jobtitle'].replace(" ", "+")
    try:
      readJobs.mainReadJobs(jobTitle)
+
+     
 
      #creating the opening and closing 
      jobfile = codecs.open('markovJobs.txt', encoding='utf-8')
@@ -83,14 +107,21 @@ def add_entry():
      #creating in the bullet points
      file = codecs.open('bulletmarkovJobs.txt', encoding='utf-8')
      markovBullets = markovgen.MarkovBullets(file)
-     flash(request.form['jobtitle'],'jobtitleMsg' )
+     flash(spacedJobTitle.title(),'jobtitleMsg' )
      sentences = random.randint(5, 7)
      theBullets = markovBullets.generate_markov_text(sentences)
      flash(theBullets,'bullets' )
+     addInDatabase(spacedJobTitle)
    except:
       flash("There was an error in your request....Try Again",'error')  
    return redirect(url_for('show_entries'))
 
+# Simple tracking to find out most common search  
+@app.route('/top')
+def show_top_jobs():
+   #entries = JobSearches.query.limit(100).all().order_by(searches)
+   entries = JobSearches.query.order_by(desc(JobSearches.searches)).limit(100)
+   return render_template('topJobs.html', entries=entries)
 
 
 if __name__ == '__main__':
