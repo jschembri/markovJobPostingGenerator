@@ -1,0 +1,391 @@
+
+
+  * Engineering: 2 years;
+  * Bachelor's;
+
+  * Engineering: 2 years;
+  * Bachelor's;
+
+  * Certified Engineering Technologist: 1 year;
+  * Diploma/Certificate;
+
+  * Assist with drive test preparation and post-processing analysis;
+  * Prepare link budget calculation and design with regards to transport (microwave) links;
+  * Perform site surveys for transport and access links when needed;
+  * Prepare site engineering documents to be reviewed by senior RF engineer;
+  * Prepare documentation for license applications for microwave links;
+  * Perform design upgrades for transport links and prepare MOP for implementation;
+  * Assist with site RF optimizations;
+  * Collect drive test information for new sites and assist with post-processing analysis;
+  * Perform interference analysis (internal and external) using spectrum analyzer in the field;
+  * Assist with NOC escalations with regards to access and transport link performance;
+  * Assist with RF changes in the network;
+  * Perform documentation of processes and procedures;
+  * Other duties as required;
+  * 1 to 2 year practical experience in telecommunications, preferably in RF (Transport and/or Access Network;
+  * Class 5 driver’s license mandatory and willing to travel within the province of Alberta 60% of the time;
+  * Bachelor degree in Electrical Engineering – Option Telecommunications – Master degree an asset;
+  * Field experience with regards to telecommunication;
+  * Good understanding of understanding of RF propagation;
+  * Basic experience with RF Optimization is an asset;
+  * Experience with design and/or implementation of microwave links;
+  * Experience working with planning tools such as Mentum Planet, Path loss, TEMS, MapInfo, Atoll, CellPlanner, etc;
+  * Knowledge of telecommunication technology e.g. LTE and WiMAX technology;
+  * Experience working with Huawei or ZTE equipment is an asset;
+  * Motivated self-starter with a strong desire to learn;
+  * Strong initiative and problem-solving skills;
+  * Calgary, AB;
+  * Drive Testing and Interference analysis(Field), transport and access network troubleshooting: 1 year;
+  * Class 5 License;
+  * Bachelor's;
+
+  * Provide high quality, leading edge engineering solutions to the pipeline industry for our clients;
+  * Interacts with survey, permitting, environmental and ROW acquisition;
+  * Design pigging facilities and associated equipment, develop piping specifications, make material selections and has exposure to different types of horizontal drills, HDD plans and profiles, permitting and corrosion control of pipelines;
+  * Assist in the Development of class locations, hydrostatic test schematics, pipe stress calculations, mainline valve spacing, and site specific drawings or plans (i.e. road crossings, railroad crossings);
+  * Designs, coordinates and communicates deliverables per Client and Company specifications;
+  * Executes the scope of engineering work, schedules, and budgets for the assigned project elements, monitors progress to maintain schedules and budgets;
+  * Participate in the development of technical specifications for materials and construction;
+  * Assists in development of Total Install Cost estimates Develops material specifications, data sheets, and material lists;
+  * Provides technical support during construction;
+  * Is experienced in applicable industry codes and regulations such as CSA Z662 and CSA Z245;
+  * Possess excellent verbal communication skills and a good understanding of work related documents;
+  * Coordinates and works with other disciplines, project managers and directly with our clients;
+  * Bachelor or Master's degree in Engineering;
+  * formal training and experience in engineering design or EPC projects an asset;
+  * Must be registered as an EIT or Professional Engineer;
+  * Capable of interacting with all engineering disciplines;
+  * Familiarity with applicable codes, standards, and acceptable industry practices, etc.;
+  * Must have excellent communication skills and be capable of interacting with peers, project managers, site managers and clients;
+  * Must be capable of working in a team of engineers, designers and support personnel;
+  * Working knowledge of Microsoft Project or Primavera P6 an asset;
+
+  * Assisting in the development and implementation of software-driven solutions for managing network infrastructure and services;
+  * Working closely with the operation team, provides front line client support to resolve service access problems or network issues;
+  * Providing after-hours client support on a rotating basis;
+  * Performing daily system network and services monitoring;
+  * Assisting the operation team with the management of the CANARIE network;
+  * Providing administrative support for the network application Linux servers including updating patches configuration and installation;
+  * Supporting CANARIE’s identity and access management service through monitoring and providing client support;
+  * Other related duties;
+  * Bachelor's degree in Computer Science or Engineering;
+  * Bilingual, good written and verbal communication skills in both official languages;
+  * Working experience in Linux server environment;
+  * Working experience of installing and configuring Open Source software;
+  * Proven experience in software development and methodology;
+  * Proven analytical and problem-solving abilities;
+  * Working experience in administrating RADIUS infrastructure is an asset;
+  * Working experience in managing software tools such as splunk, MRTG, Nagios, or OTRS is an asset;
+  * Working knowledge of TCPIP and/or networking technologies is an asset;
+  * Working knowledge of software defined or network function virtualization networking is an asset;
+  * Linux: 1 year;
+
+
+  * Assemble and test device prototypes and components to support product design and research activities. This includes mechanical and electrical testing as well as testing of anatomical and physiological device interaction in the wet lab.;
+  * Prepare samples and perform systematic testing to support the development of manufacturing processes and process validation.;
+  * Assist in troubleshooting activities and failure root cause investigations.;
+  * Design and implement hardware and software for low to medium-complexity jigs.;
+  * Source materials, components, tools, and equipment for early-stage development activities.;
+  * Support preparation of technical documentation and training materials including generation of pertinent drawings, illustrations, photos, and videos.;
+  * Provide logistical support for external testing activities.;
+  * Perform other duties as assigned.;
+  * Bachelor’s degree in an engineering discipline with 1-2 years of experience working with multi-disciplinary teams, or equivalent. Experience in preparing test protocols and test reports is strongly desired.;
+  * Solid communication, documentation, and analysis skills.;
+  * Hands-on experience assembling, configuring and troubleshooting mechanical, electrical, and software systems.;
+  * Ability to identify, acquire, and utilize resources and information needed to resolve issues outside the candidate’s core knowledge base.;
+  * Ability to work as part of a team as well as independently.;
+  * Ability to frequently and efficiently switch between different tasks.;
+  * High degree of drive and motivation.;
+
+
+  * Assemble and test device prototypes and components to support product design and research activities. This includes mechanical and electrical testing as well as testing of anatomical and physiological device interaction in the wet lab.  ;
+  * Prepare samples and perform systematic testing to support the development of manufacturing processes and process validation.  ;
+  * Assist in troubleshooting activities and failure root cause investigations.  ;
+  * Design and implement hardware and software for low to medium-complexity jigs.  ;
+  * Source materials, components, tools, and equipment for early-stage development activities.  ;
+  * Support preparation of technical documentation and training materials including generation of pertinent drawings, illustrations, photos, and videos.  ;
+  * Provide logistical support for external testing activities.  ;
+  * Perform other duties as assigned.  ;
+  * Bachelor's degree in an engineering discipline with 1-2 years of experience working with multi-disciplinary teams, or equivalent. Experience in preparing test protocols and test reports is strongly desired.  ;
+  * Solid communication, documentation, and analysis skills.  ;
+  * Hands-on experience assembling, configuring and troubleshooting mechanical, electrical, and software systems.  ;
+  * Ability to identify, acquire, and utilize resources and information needed to resolve issues outside the candidate's core knowledge base.  ;
+  * Ability to work as part of a team as well as independently.  ;
+  * Ability to frequently and efficiently switch between different tasks.  ;
+  * High degree of drive and motivation.  ;
+
+
+
+  * Troubleshoot failed builds and work with developers to identify and resolve issues;
+  * Set up and configure new continuous integration projects;
+  * Work with teams to update build configurations and ensure automated systems continue to work as expected;
+  * Document key build processes and procedures;
+  * Meet regularly with teams to discuss ongoing build issues and change requirements;
+  * Evolve automated systems to streamline build and deployment processes;
+  * Perform TFS administration tasks;
+  * Work with remote teams to identify and resolve issues in a variety of environments;
+  * Automate deployments to development, testing and production environments.;
+  * University degree or College diploma in a relevant discipline;
+  * 1-2 years of experience in build and release engineering or configuration management;
+  * Solid troubleshooting and problem solving skills;
+  * Experience working with scripting languages (PowerShell skills considered an asset);
+  * Experience with automation tools (TeamCity, Jenkins or Bamboo);
+  * Good understanding of build and release concepts and SDLC;
+  * Strong understanding of version control tools and procedures. Git and TFS experience is a plus;
+  * Experience working with virtual environment such as VMware or VirtualBox;
+  * Strong communication and documentation skills;
+  * Application packaging experience;
+  * Experience with SQL Server is a plus;
+  * Ability to organize and prioritize multiple tasks according to urgency and importance;
+  * Understanding of Agile development, continuous deployment and continuous integration;
+  * Enjoys working with multiple teams on a variety of issues in a fast-paced environment;
+
+
+
+  * Structural BIM modelling and project coordination. Working in conjunction with the Project Principal, Project Engineer and other members of the design team to complete projects of varying size and complexity from start to finish;
+  * In our team environment, as workload requires, provide assistance other Project CAD/BIM Technologists in completing work for their project deadlines;
+  * Coordinate the varying responsibilities associated with managing and producing drawings for structural projects, including managing specific files and directories;
+  * Support in creation of standards and methods to further the strategic development of relevant BIM technologies;
+  * An applicable degree or diploma in architectural or engineering technology;
+  * Minimum 2 years of experience in drafting and designing;
+  * Must have a working knowledge and ability to use programs such as AutoCAD 2012/2013, Revit 2014, Bluebeam, Microsoft Word and Excel;
+  * Minimum 2 years of experience in drafting and designing.: 2 years;
+
+  * ďťżAssist Sales Manager to identify and develop sales opportunities;
+  * Successfully managing one or more projects from simultaneous engineering through customer launch, relative to project content, timing, budget, quality, technology, and customer satisfaction;
+  * Work closelywithdesign team to provide engineered solutions that satisfy customer and technical requirements of the project;
+  * Manage production team to facilitate on time productdeliverywhile working within internal operations guidelines;
+  * Create and manage timelines, review all project specific documentation related to the Project Management Process;
+  * Coordinate, manage and deliver products through soundprojectmanagement principals from initial kickoff through project completion;
+  * Intimate knowledge of SOLID WORKS Program;
+  * 2+ years of engineering knowledge/experience;
+  * 2+ years of Program Management experience;
+  * The ability to effectively manage, prioritize, and execute tasks for multiple projects in a high-pressure environment;
+  * Exceptional people and team work skills, written and verbal communication abilities;
+  * Kingsville, ON;
+  * Engineering (with SOLIDWORKS): 2 years;
+
+  * Ensure all engineering and design work performed adjusts to quality, cost and schedule requirements.  ;
+  * Ensure all design work is safe and carried out in a safe manner.  ;
+  * Ensure all design work conforms to the codes and standards used by the client, or to agreed industry standards.  ;
+  * Perform designing/engineering work/deliverables as part of the Instrumentation &amp; Control team.  ;
+  * Ability to interpret client specifications.  ;
+  * Coordinate/Communicate with other disciplines and the client.  ;
+  * Quality Assurance – Responsible for working within the provisions and guidelines of the WorleyParsons Quality Assurance system  ;
+  * Identify issues and problems, develop appropriate solutions, and ask for assistance when required.  ;
+  * Keep up-to-date with the latest developments and technical innovations in instrumentation &amp; controls engineering.  ;
+  * May be required to provide assistance and advice during procurement, construction and commissioning activities.  ;
+
+  * Reviewing equipment drawings, P&amp;IDs; and general arrangement drawings from a mechanical standpoint;
+  * Preparing engineering work packages and providing construction support;
+  * Producing designs and specifications for mechanical systems and materials, contributing to technical selection, sizing and evaluation of equipment;
+  * Developing the design for a project or proposal;
+  * Providing comprehensive design services by establishing design criteria and preparing of specifications, design computations, drawings, models and bills of material in accordance with basic project requirements;
+  * Participating in the design of component parts and individual units, exercising cost control, reviewing and monitoring designs for conformance with control estimates and project specifications;
+  * Reviewing vendor or subcontractor quotations, drawings and specifications for technical adequacy and conformance with project requirements;
+  * Providing technical guidance to junior staff;
+  * Participating in design reviews and HAZOPs;
+  * Preparing or assisting in the preparation of discipline inputs for cost estimates for proposals;
+  * Applying advanced engineering techniques and analyses to solving engineering tasks;
+  * Preparing and reviewing equipment specifications and bid packages, performing technical bid evaluations and interfacing with procurement;
+  * Reviewing and approving drawings and providing fabrication/technical support;
+  * Meeting safety requirements to attend site visits;
+  * Performing other duties as requested;
+  * Four (4) to ten (10) years of progressive experience in facilities engineering and design in the oil and gas industry;
+  * Bachelor’s degree or Master’s degree in engineering or applied science;
+  * Ability to work within a multi-disciplinary team including process, mechanical, civil-structural, electrical, instrumentation and piping engineers and designers;
+  * Mechanical Designer in oil and gas process packages: 4 years;
+
+  * Working knowledge and experience in Java, .Net or any other team development environment;
+  * Understanding and appreciation for the needs of Customer Support; passion for helping customers;
+  * Ability to work non-standard shifts within the 40 hours work week.;
+  * Experience developing enterprise applications;
+  * Understanding of the modern software development process.;
+
+  * Welland, ON;
+  * Estimating: 1 year;
+  * Diploma/Certificate;
+
+  * Help stabilize production efficiency  ;
+  * Analyze production and recommend solutions to improve productivity and assist to resolve all problems in process.  ;
+  * Initiate and develop solutions to fix identified problems.  ;
+  * Interact with project teams for equipment installation and upgrades.  ;
+  * Study and recommend corrective solutions for enhancing manufacturing efficiency.  ;
+  * First level of support, to answer calls and investigate the issue technically.  ;
+  * Works with other support personal to resolve roadblocks  ;
+  * Works with Production Support Supervisor to ensure goals and objectives are met  ;
+  * Hands-on support , troubleshooting and bug fixing as needed  ;
+  * Responsible for documentation and maintaining knowledge artifacts.  ;
+  * Works in on-call support rotation among with peers.  ;
+  * Engineering Degree (Electrical)  ;
+  * Minimum 5 years’ experience in a manufacturing environment (Tissue converting experience an asset)  ;
+  * Demonstrated Project Management experience  ;
+
+
+  * Interpret business issues into technical solutions;
+  * Execute client projects within timelines and budgets;
+  * Work to develop an open, honest relationship with clients and partners;
+  * Communicate with CONTAX staff, both senior and junior to ensure all clients’ needs are addressed;
+  * Provide customers with value-added service and results;
+  * Carry out assignments focused on helping customers meet their business needs;
+  * Work under minimum supervision, seeking guidance from mentors when needed;
+  * Design and implement technical solutions customized to meet client needs;
+  * Evaluate and re-engineer clients’ existing business processes;
+  * Develop custom reporting tools;
+  * A Bachelor’s degree in a technical field;
+  * Exposure to programming;
+  * Excellent leadership, communication (written and oral), and interpersonal skills;
+  * Proven success in both team-oriented and individual environments;
+  * Work authorization which does not require sponsorship by the employer;
+  * Exhibit a high degree of technical and professional competence;
+  * Consultants must listen to the customer;
+  * Approach problems in a methodical and logical manner;
+  * Use analytical thinking, research and effective communication;
+  * Take ownership;
+  * Must be outgoing, personable, responsible, self-motivated, confident;
+  * Consultants have to be able to hold a conversation in a non-technical area;
+  * Consultants must demonstrate some level of passion about a hobby, team, activity group;
+  * Consultants must be trustworthy;
+  * Consultants must be punctual;
+  * Attention to detail: Consultants who are detail oriented and have a good grasp of critical thinking and problem solving skills can be very successful despite other shortcomings that are technical in nature;
+  * Charlottetown, PE;
+  * Bachelor's;
+
+
+
+
+  * Execute concept planning, preliminary and detailed design for transportation projects, including but not limited to arterial roadways, highways, and freeways;
+  * Preparation of design reports;
+  * Preparation of contract drawings and documents, including cost estimating for tender and construction;
+  * Attend project meetings with clients, architects and consulting disciplines;
+  * Provide proposal preparation support;
+  * Provide support during construction phase;
+  * Provide mentorship to junior engineers and technical staff;
+  * Provide QC/QA for project deliverables;
+  * Bachelor's degree in Civil Engineering;
+  * Registered as a member of APEGA with P.Eng. status;
+  * Minimum of 8 years of related experience;
+  * Working knowledge of AutoCAD and Civil 3D software will be an asset;
+  * Practical knowledge of the Alberta Transportation, TAC, and other relevant design procedures and standards;
+  * Experience on urban roadway projects in the City of Calgary is considered an asset;
+  * Excellent communication and interpersonal skills;
+  * Ability to work in a team based environment;
+
+  * Support product line with preparing detailed technical documents;
+  * Assist with development of product;
+  * Work with the project from conceptual and preliminary stages of design through to completion;
+  * Assist with design checks for other engineersâ work (portions of projects;
+  * Creating 2D and 3D designs for use in production and presentations;
+  * Ensure construction plans, drawings and specs meet guidelines and specifications of codes and other regulations;
+  * Review shop drawings;
+  * Sound engineering skills;
+  * Ability to think abstractly and solve problems creatively;
+  * Attention to detail;
+  * Good 2D and 3D design skills (experience in Autodesk Inventor is an asset, experience with 3D modeling software is a must;
+  * Working knowledge of design, engineering and production;
+  * Ability to work independently with minimal supervision;
+  * Post-Secondary Education in Engineering, Engineering Technology or Technician;
+  * Proficient in 3D Modeling Software;
+  * Experienced at creating technical drawings and assembly instructions;
+  * Experience with using or sending 2D and 3D plans for production;
+
+
+  * Interpret business issues into technical solutions;
+  * Execute client projects within timelines and budgets;
+  * Work to develop an open, honest relationship with clients and partners;
+  * Communicate with CONTAX staff, both senior and junior to ensure all clients’ needs are addressed;
+  * Provide customers with value-added service and results;
+  * Carry out assignments focused on helping customers meet their business needs;
+  * Work under minimum supervision, seeking guidance from mentors when needed;
+  * Design and implement technical solutions customized to meet client needs;
+  * Evaluate and re-engineer clients’ existing business processes;
+  * Develop custom reporting tools;
+  * A Bachelor’s degree in a technical field;
+  * Exposure to programming;
+  * Excellent leadership, communication (written and oral), and interpersonal skills;
+  * Proven success in both team-oriented and individual environments;
+  * Work authorization which does not require sponsorship by the employer;
+  * Exhibit a high degree of technical and professional competence;
+  * Consultants must listen to the customer;
+  * Approach problems in a methodical and logical manner;
+  * Use analytical thinking, research and effective communication;
+  * Take ownership;
+  * Must be outgoing, personable, responsible, self-motivated, confident;
+  * Consultants have to be able to hold a conversation in a non-technical area;
+  * Consultants must demonstrate some level of passion about a hobby, team, activity group;
+  * Consultants must be trustworthy;
+  * Consultants must be punctual;
+  * Attention to detail: Consultants who are detail oriented and have a good grasp of critical thinking and problem solving skills can be very successful despite other shortcomings that are technical in nature;
+  * Charlottetown, PE;
+  * Bachelor's;
+
+  * Provide technical direction for and review of engineering designs, studies, reports, estimates and schedules;
+  * Coordinate and direct the activities of the electrical design team in the execution of project work;
+  * Establish and maintain client relationships;
+  * Monitor and control the financial performance of the electrical design team;
+  * Provide mentoring and coaching of junior engineers and technologists;
+  * Participate in the management of the Saskatoon branch office under the direction of the Industrial Manager and the Saskatchewan Vice-President of Operations;
+  * Bachelor degree in Electrical Engineering.;
+  * 5 to 10 years relevant experience in the design of electrical power systems for industry;
+  * Registration with the Association of Professional Engineers and Geoscientists of Saskatchewan;
+  * Experience in the Canadian engineering consulting industry;
+  * Ability to work in a team environment;
+  * Excellent communication and people skills;
+  * Computer literacy in word processing and electrical engineering design software;
+  * Hold a valid driver's license;
+  * Ability to travel in Canada and abroad if and when required;
+  * In addition to industrial experience, experience with the design of commercial and institutional buildings;
+  * Ability to work in AutoCAD, Revit and AutoCAD 3D;
+  * Familiarity with the Canadian Electrical Code;
+
+
+  * In collaboration with Design Engineering develops efficient and effective test specifications to verify products requirements;
+  * Setup and verify test environments;
+  * Executes test cases according to specifications;
+  * Detects potential problems in advance and reports them to Team Leader.;
+  * Looks for opportunities to improve test case execution through automation techniques and/or optimization methods;
+  * Works under the guidance of more senior test Engineers.;
+  * Multiplex between different projects or assignments and delivers on commitments.;
+  * Ability to demonstrate flexibility to meet business demands.;
+  * Desire to be a professional in the testing engineering field;
+  * Solid experience in developing and executing test cases/test plans and test strategy;
+  * Solid problem tracking and test reporting skills;
+  * Good oral and written communication skills;
+  * Testing telecom protocols (T1, E1, ISDN, BRI, VoIP, SIP, H.323) experience is an asset;
+  * Bachelorâs Degree in engineering or computer science, or equivalent OR;
+  * 1 to 3 years test engineering experience preferably in embedded or telecom environment;
+  * Familiar with UNIX, Linux development environment and software development life cycle.;
+  * Understanding of programming languages such as Java, Tcl/Tk, Perl, Python and/or shell scripting languages;
+  * Familiar with software development life cycle;
+  * Ability to work to committed budget and schedule;
+  * Willing to work at different levels of software; integrate software and hardware;
+
+
+  * To be a part of a fast growing company that has democratized business decisions and empowered consumers;
+  * To be able to use your creativity to help design, implement and deploy a highly distributed application in our global online platform;
+  * To collaborate with a group of extremely talented, passionate and fun individuals who will challenge you to become an even better test developer;
+  * To work on a cutting edge stack and to build a next generation of a product that has already revolutionized the market place;
+  * To be in a company where your input actually matters;
+  * As a quality assurance engineer on our next generation team, you'll work in an agile environment helping to ensure our SaaS application, that helps hundreds of the world's top brands make their products and services better, is of the highest quality possible.;
+  * You thrive in a team environment, you enjoy sharing ideas and you're curious about how things work;
+  * You have a customer first mentality when it comes to development and understand how to put yourself in the shoes of the customer to evaluate how well we are meeting their expectations;
+  * You're familiar with Web based and possibly Mobile user interfaces;
+  * You're familiar with terms like usability and accessibility;
+  * You enjoy the creative process, you enjoy finding solutions to problems and you relish helping a team build quality products that delight customers;
+  * You are a critical thinker, capable of assessing and evaluating risk and mentally modeling systems and workflows;
+  * You are passionate about software quality and you stay informed about the latest developments in the industry;
+  * You have some familiarity with at least one development language like HTML, CSS, JavaScript, C#, or Java, and you are not scared of looking at code;
+
+
+  * Develop new automation software for production alignment and test equipment;
+  * Specify and select sensors, actuators, and acquisition equipment;
+  * Develop and execute qualification plans;
+  * Support and improve existing production software;
+  * Improve production processes and quality metrics;
+  * Degree or Diploma in Electrical or Computer Engineering, Engineering Physics or Systems Engineering.;
+  * Good language and communication skills;
+  * Experience with C, C#, Labview and/or Python is an asset;
+  * Experience with setting up data acquisition systems;
+  * Relevant work experience;
+  * +3 years work experience;
+

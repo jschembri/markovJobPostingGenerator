@@ -1,0 +1,1087 @@
+
+
+
+  * Assemble and test device prototypes and components to support product design and research activities. This includes mechanical and electrical testing as well as testing of anatomical and physiological device interaction in the wet lab.;
+  * Prepare samples and perform systematic testing to support the development of manufacturing processes and process validation.;
+  * Assist in troubleshooting activities and failure root cause investigations.;
+  * Design and implement hardware and software for low to medium-complexity jigs.;
+  * Source materials, components, tools, and equipment for early-stage development activities.;
+  * Support preparation of technical documentation and training materials including generation of pertinent drawings, illustrations, photos, and videos.;
+  * Provide logistical support for external testing activities.;
+  * Perform other duties as assigned.;
+  * Bachelor’s degree in an engineering discipline with 1-2 years of experience working with multi-disciplinary teams, or equivalent. Experience in preparing test protocols and test reports is strongly desired.;
+  * Solid communication, documentation, and analysis skills.;
+  * Hands-on experience assembling, configuring and troubleshooting mechanical, electrical, and software systems.;
+  * Ability to identify, acquire, and utilize resources and information needed to resolve issues outside the candidate’s core knowledge base.;
+  * Ability to work as part of a team as well as independently.;
+  * Ability to frequently and efficiently switch between different tasks.;
+  * High degree of drive and motivation.;
+
+  * Join a cross-functional team that actively seeks out input from various stakeholders;
+  * Take ownership over the design of creative solutions to meet desired performance;
+  * Complete the final design of commercial consumables involving both microfluidic and macro components;
+  * Give input on and assist with developing microfluidic devices for early R&amp;D; with a view to commercialization;
+  * Keep a broad view of the entire product suite and develop strategies to obtain efficiencies;
+  * Create schedules and manage actions to meet aggressive milestones;
+  * Perform risk analysis and communicate it effectively to a cross-disciplinary team;
+  * Develop and execute test plans;
+  * Mentor junior team members to ensure the team’s success;
+  * Thrive in a dynamic environment and be willing to take on whatever tasks are needed to meet the team’s goals;
+  * Propose production plans for new products including, evaluating suppliers of custom and off the shelf components, costing optimization, and risk analysis;
+  * Manage outside suppliers and contract manufacturers to ensure a design has a reliable supply chain;
+  * Take a lead role in establishing production;
+  * Monitor production, proactively address problems and make recommendations for future improvements;
+  * Integrate customer feedback into design revisions;
+  * Assist the client support team in diagnosing and solving customer issues;
+  * Undergraduate degree in Engineering Physics, Electrical Engineering, Mechanical Engineering, or a related field;
+  * &gt;5 years of relevant industry experience that includes commercialization of a consumable;
+  * Documented portfolio of technical and/or creative design projects;
+  * Experience in detailed design, transfer to manufacturing, and documentation is a must;
+  * Proven record of developing a product from prototype to commercialization;
+  * Familiarity with a broad range of macro (e.g. injection moulding, CNC) and micro (e.g. lithography) manufacturing techniques;
+  * Extensive experience designing with SolidWorks (or similar);
+  * Strong project management skills and interpersonal, relationship-building skills;
+  * Ability to understand and articulate the importance of quality systems;
+  * Experience with biomedical instruments, biological assays, and/or genetic analysis equipment;
+  * Experience with developing fluidic systems and integrating fluidic components;
+  * Experience in FDA regulated environment is a plus;
+  * Experience in detailed design, transfer to manufacturing, and documentation is a must.: 1 year;
+
+
+  * Assemble and test device prototypes and components to support product design and research activities. This includes mechanical and electrical testing as well as testing of anatomical and physiological device interaction in the wet lab.  ;
+  * Prepare samples and perform systematic testing to support the development of manufacturing processes and process validation.  ;
+  * Assist in troubleshooting activities and failure root cause investigations.  ;
+  * Design and implement hardware and software for low to medium-complexity jigs.  ;
+  * Source materials, components, tools, and equipment for early-stage development activities.  ;
+  * Support preparation of technical documentation and training materials including generation of pertinent drawings, illustrations, photos, and videos.  ;
+  * Provide logistical support for external testing activities.  ;
+  * Perform other duties as assigned.  ;
+  * Bachelor's degree in an engineering discipline with 1-2 years of experience working with multi-disciplinary teams, or equivalent. Experience in preparing test protocols and test reports is strongly desired.  ;
+  * Solid communication, documentation, and analysis skills.  ;
+  * Hands-on experience assembling, configuring and troubleshooting mechanical, electrical, and software systems.  ;
+  * Ability to identify, acquire, and utilize resources and information needed to resolve issues outside the candidate's core knowledge base.  ;
+  * Ability to work as part of a team as well as independently.  ;
+  * Ability to frequently and efficiently switch between different tasks.  ;
+  * High degree of drive and motivation.  ;
+
+
+
+  * Assist in creating the company’s verification and validation strategy and design tests necessary to perform product design verification and process validation testing.;
+  * Provide guidance to design team to ensure that design specifications are adequately written to support verification activities.;
+  * Develop and validate test methods.;
+  * Specify, design, and commission necessary test fixtures and jigs.;
+  * Become familiar with and stay current on relevant medical device standards and regulations.;
+  * Write test protocols.;
+  * Execute tests.;
+  * Work with design teams in root cause analysis.;
+  * Write test reports.;
+  * Interface with third party test labs.;
+  * Bachelor’s degree or higher in engineering or physics.;
+  * Minimum 3 years of experience with design verification and validation of mechanical components and systems in the biotechnology, pharmaceutical, diagnostics or medical devices industry, or 5 years of experience with hands-on mechanical or electro-mechanical testing in industry.;
+  * Experience with designing and prototyping mechanical fixtures and jigs, and conducting mechanical performance tests.;
+  * Experience with electrical and software systems testing, including operation of oscilloscope, is preferred.;
+  * Experience with and solid understanding of statistics as applied to verification and validation testing.;
+  * Strong, practical knowledge of R&amp;D;, experimental design, and measurement systems analysis.;
+  * Excellent ability to troubleshoot and problem-solve.;
+  * Strong experience with writing specifications, test protocols, and test reports.;
+  * Hands-on experience in machine shop, including CNC, milling machine, and lathe.;
+  * Experience in a laboratory environment, including proper experimental data collection and Good Documentation Practice.;
+  * Practical knowledge of medical device regulatory requirements and standards such as IEC 60601, ISO 10555, ISO 10993, ISO 13485, ISO 14971, and ISO 17025;
+  * Strong mechanical and electrical aptitude;
+  * Strong analytical skills and critical thinking;
+  * Effective written &amp; verbal communication and technical documentation skills;
+  * Sound ability to manage multiple tasks with a high degree of accuracy and timeliness;
+  * Flexible and adaptable to take on additional responsibilities as appropriate;
+  * Proven ability to operate independently with minimal direction;
+  * Detail-oriented;
+  * Excellent interpersonal skills;
+
+  * Bachelor’s degree in Electrical Engineering, preference Biomedical/Medical Engineering – must.;
+  * Minimum 2 years as a Medical Equipment Testing, Field Service/ Support Engineer – must.;
+  * Vast experience in testing of complex HW and SW systems – must.;
+  * Experience with PC/software/networking knowledge is highly desired.;
+  * Requires a good working knowledge of electronic devices.;
+  * Must be proficient in Windows and MS Office, with knowledge of host/remote communications.;
+
+
+  * Performs highly skilled repair, maintenance and installation duties on complex mechanical systems and equipment such as boilers, washing machines, dishwashers, sterilizers and other non biomedical equipment following manufacturer’s specifications; locates or traces mechanical malfunctions; disassembles machinery or equipment, repairs or replaces worn parts and re-assembles; tests, adjusts and aligns drive and suspension systems, installs, cleans, lubricates, and adjusts pumps, and motors, fans, compressors, and control systems; performs minor welds on equipment or machinery and refits ducting and piping;
+  * Monitors and checks operation of boilers and cooling systems; takes and records gauge readings; calculates and adds chemicals and water softeners; de-scales tanks, bins and parts, overhauls boilers and dismantles for inspection; performs cleaning, checking and scheduled servicing functions;
+  * Performs renovation and structural repair duties such as framing, insulating and surfacing walls according to drawings; repairing linoleum, carpeting and ceramic tile; fabricating furniture such as shelving, cupboards, and tables;
+  * Makes recommendations on or implements a preventative maintenance schedule, logs or maintains records on work performed;
+  * Assists journeyman or other maintenance staff with various maintenance, installation or repair projects; performs a number of skilled duties independently and assists the journeyman with technical project work;
+  * Provides advice to other staff on technical matters and assists in their training and orientation; may assign and provide work direction to a small maintenance group;
+  * Requisitions supplies and/or equipment; may prepare work related reports;
+  * Performs other related duties as required;
+  * Grade 12 or equivalent. A valid Class 5 Alberta Driver’s License and current Driver’s Abstract;
+  * Fifth Class Power Engineers Certificate (dependent on site requirement;
+  * Fourth Class Power Engineers Certificate (dependent on site requirement;
+  * Minimum 2 years experience in plant and building maintenance;
+  * General knowledge of building mechanical systems, pneumatic and electrical controls, air conditioning, heating, refrigeration, building systems and plumbing;
+  * A good understanding of electrical and plumbing systems. Able to systematically trace equipment operating problems;
+  * Ability to understand simple schematic drawings, read blueprints, equipment repair manuals and manufacturer specifications;
+  * Must understand ABSA regulations, applicable building codes; WHIMIS and Occupational Health and Safety Guidelines;
+  * Evidence of accuracy and precision in the performance of the duties required;
+  * Must demonstrate technical problem solving abilities and be mechanically inclined;
+  * Knowledgeable and aware of all known safety concerns and physical demands;
+  * Ability to work independently and as part of a team and effectively manage his or her own time and setting priorities when faced with multiple tasks and deadlines;
+  * Able to operate a computerized building management system (dependent on site;
+  * Able to use a computer for email and Excel Level ;
+  * Must be able to communicate clearly in English; verbally and in writing;
+
+  * Uncover product requirements and translate them into system specifications;
+  * Join a cross-functional team that actively seeks out input from various stakeholders;
+  * Take ownership over the design of creative electromechanical systems to meet the agreed system specifications;
+  * Create schedules and manage actions to meet aggressive milestones;
+  * Perform risk analysis and communicate it effectively to a cross-disciplinary team;
+  * Develop and execute test plans;
+  * Mentor junior team members to ensure the team’s success;
+  * Thrive in a dynamic environment and be willing to take on whatever tasks are needed to meet the team’s goals;
+  * Source components, plan procurement and interface with suppliers;
+  * Manage outside suppliers and contract manufacturers to ensure design has a reliable supply chain;
+  * Coordinate testing according to applicable standards and implement quality control to meet regulatory and performance requirements;
+  * Interface with contract manufacturers to establish production;
+  * Integrate customer feedback into design revisions;
+  * Consider ease of service when designing new products;
+  * Establish plans to provide effective service to instrument once deployed;
+  * Undergraduate degree in Engineering Physics, Electrical Engineering, Mechanical Engineering, or a related field;
+  * &gt;5 years of relevant industry experience that includes product commercialization;
+  * Documented portfolio of technical projects involving electromechanical products (sensors, motors etc.) and software control;
+  * Experience in detailed design, transfer to manufacturing, and documentation is a must;
+  * Proven record in design for manufacturability and knowledge of design for different manufacturing techniques (sheet metal, CNC, injection molding etc.);
+  * Extensive experience with creating complex assemblies in SolidWorks (or similar);
+  * Strong project management skills and interpersonal, relationship-building skills;
+  * Experience in biomedical instruments, biological assays, and/or genetic analysis equipment;
+  * Experience with fluidic systems and integrating fluidic components;
+  * Experience in FDA regulated markets is a plus;
+  * Relevant Industry Experience: 5 years;
+
+  * Perform preventative maintenance and emergency service on all products 24 X 7;
+  * Partners with clients and serves as subject matter expert in planning, executing technical tasks such as configuring, conversions, interfaces, integration, issue resolution, assessment of system environment readiness, installation;
+  * Repair and installation of automation equipment that includes pneumatic controls, digital electro-mechanical servo controls, solenoid valves, PC interface controls and mechanical drive stations;
+  * Independently troubleshoot mechanical and electrical failures to a component level.;
+  * Mentors and provides technical assistance to client and internal resources.;
+  * Read electrical schematics and mechanical drawings;
+  * Coordinate on-site installation and implementation of new products, add-on products, modifications, upgrades, and special projects;
+  * May lead multiple technical projects simultaneously and is the main point of contact for a client in most situations;
+  * Provides recommendations on the process improvements related to workflow and implementation and adoption processes and leads the efforts to create improvements.;
+  * Obtain signed product Acceptance Certificate;
+  * Promote and optimize customer product ownership, satisfaction and clinical integration through:;
+  * Adhere to all applicable health and safety regulations and procedures;
+  * Maintain fiscal responsibility for business expenses associated with Company-issued credit card;
+  * Other duties as assigned;
+  * Strong interpersonal, verbal and written communications and problem-solving skills.;
+  * Working knowledge of computer hardware, Microsoft operating systems and Microsoft Office Suite (Word, Excel, PowerPoint, Outlook);
+  * Basic networking skills;
+
+  * Excited by the opportunity to work closely with engineers, scientists, software developers, functional testers, and quality officers;
+  * Passionate about authoring technical literature, white papers, and communication materials;
+  * Inspired by the idea of working independently and with project teams to plan and execute project-related technical writing activities;
+  * Research products by reading and studying the product specifications, interviewing subject matter experts, investigating hardware and software, observing uses and learning how to operate and use the instruments;
+  * Strictly follow company’s quality management policy and requirements and facilitate unification and observance of documentation formats, company brand, and regulatory standards;
+  * Organize and facilitate content review meetings with scientific applications team and marketing team for projects assigned;
+  * Analyze developments in specific field to determine need for revisions in previously published materials and development of new material;
+  * Create policy and procedure documentation to support appropriate departments;
+  * Enjoy a highly competitive compensation package, including better-than-average benefits and growth opportunities, as well as a dynamic and rewarding company culture;
+  * Have fun, be fully engaged and promise to have a life beyond “work;
+  * Degree in engineering or a physical science discipline;
+  * Experience distilling complex or highly technical concepts to actionable, understandable communications;
+  * Track record of researching and writing effective documentation in a business environment;
+  * Understanding and comfort with technical components; software and hardware product components;
+  * Exceptional writing, editing and proofreading skills, and attention to detail – particularly with respect to enhancing user experience;
+  * Strong understanding of quality standards;
+  * At least 3 years of technical writing experience;
+  * Proficiency in using MS Office Suite;
+  * Experience writing user documentation and using a content management system and integrated toolsets;
+  * Aptitude to learn new product technologies, including hands-on operation;
+  * Familiarity with terminology used by electrical and mechanical engineers and physical scientists especially relating biomedical equipment;
+  * Toronto, ON;
+  * technical writing, engineer, biomedical, physical science, biomedical equipment: 3 years;
+
+
+
+  * Provide pre and post-sale support and applications assistance to Beckman Coulter customers in addition to field sales and service personnel.;
+  * Provides customer satisfaction through complex hardware troubleshooting and diagnosis on specialized instrumentation and systems. Formulates changes in development, maintenance and system standards; adheres to technical standards, recommends process improvements. Participates in large-scale installations of integrated systems in the laboratory environment; ensures customer satisfaction through effective written and oral communications; and consults with management to handle difficult issues. When requested, leads training and guidance of sales staff. Requires extended travel – up to 80% – on short notice. Must have valid driver’s license and meet Beckman Coulter safe driver criteria.;
+  * Teaching skills, communication skills, and public speaking ability to be applied in conducting seminars and workshops;
+  * Able to work closely with field service engineers, providing guidance and application training, if necessary.;
+  * must have a relevant degree or diploma, and preference will be given to those candidates who are MLT certified;
+  * at least five years' hands-on laboratory experience with focus on chemistry, middleware, automation and immunochemistry.;
+  * knowledge and experience of Beckman Coulter hematology, urinalysis, chemistry, middleware, automation and immunochemistry instrumentation is a definite asset;
+  * must have excellent interpersonal and communications skills;
+  * must be self-motivated, and well organized;
+  * must be willing and able to travel extensively, within and outside the territory (company vehicle provided);
+  * computer literacy is a requirement for this position;
+
+
+  * Capture and Review all requirements based on clinical operations.;
+  * Formalize all requirements with buy in from functional owners.;
+  * Responsible for medical device equipment selection and spares definition.;
+  * Maintaining all interface information for medical devices.;
+  * Defining details for interfacing of medical equipment with clinical applications.;
+  * Identification of tests and creation of test procedures.;
+  * Define schedules and processes for both calibration and maintenance of equipment.;
+  * Manage the full set of requirements for selected Medical Devices.;
+  * Define Schedules and Procedures for both Calibration and Maintenance of Medical Devices.;
+  * Create training material and provide live training.;
+  * University degree in Engineering, P.Eng. is an asset;
+  * At least 4 years of experience in a similar role in a healthcare environment;
+  * Able to systematically capture and manage requirements;
+  * Required to provide guidance on installation of medical devices on mobile platforms;
+  * Able to read and understand engineering drawings;
+  * Test definition and acceptance of equipment is an asset;
+  * Excellent in writing procedures and a great communicator;
+  * Proficient in the use of the Microsoft Word, Excel, and Powerpoint;
+  * Strong self-starter, logical, interpersonal, problem-solver with strong attention to detail;
+
+
+
+  * Diploma from a recognized training program in Biomedical Engineering or Electronics Technology.;
+  * Minimum three (3) years of experience servicing radiation therapy equipment including completion of manufacturers' training for radiation therapy equipment OR an equivalent combination of education, training and experience acceptable to the Agency.;
+  * Successful completion of manufacturer’s training courses with at least one course successfully completed at the advanced level.;
+  * Diploma from a recognized training program in Biomedical Engineering or Electronics Technology.;
+  * Minimum three (3) years of experience servicing radiation therapy equipment OR an equivalent combination of education, training and experience acceptable to the Agency.;
+  * Demonstrated understanding of Radiation Therapy equipment advanced level theory.;
+  * Demonstrated ability to work with others including RTSTs and manufacturer service engineers.;
+  * Demonstrated proficiency in operating the full range of Radiation Therapy equipment.;
+  * Demonstrated proficiency in diagnosing, repairing and performing preventative maintenance on the full range of Radiation Therapy equipment.;
+  * Demonstrated ability to work independently during treatment day in the absence of other RTSTs.;
+  * Demonstrated ability to recognize personal limitations and only perform tasks that are within their abilities and experience.;
+  * Demonstrated understanding of the operation of dual energy linear accelerators and all components, CT simulators and all components.;
+  * Demonstrated knowledge of safety issues associated with high voltage and ionising radiation.;
+  * Demonstrated expertise with networked computer systems at the hardware level as well as with all related software, including embedded or proprietary systems.;
+  * Ability to interface different clinical devices to the computer networks.;
+  * Demonstrated knowledge of the principals of physics as they are applied to Radiation Therapy equipment.;
+  * Demonstrated technical knowledge of methods of radiation production and radiation measurement.;
+  * Ability to work independently and make decisions under pressure.;
+  * Ability to demonstrate techniques to co-workers and students.;
+  * Ability to communicate effectively with others, verbally and in writing.;
+  * Physical ability to carry out the duties and responsibilities of the position.;
+  * Leadership skills.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Minimum 3 years related experience;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Lift truck certification an asset;
+  * previous experience: 3 years;
+  * High school or equivalent;
+
+  * MUST have a relevant University degree in Engineering;
+  * MUST have a minimum of 8 years engineering experience;
+  * MUST have a minimum of 48 months of experience demonstrating the ability to conduct a minimum of two out of five of the engineering tasks specified below;
+  * Advising and assisting in the application of instrumentation in clinical environments;
+  * Conducting research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals;
+  * Evaluating the safety, efficiency, and effectiveness of biomedical equipment;
+  * Installing, adjusting, maintaining, and repairing biomedical equipment; and;
+  * Diagnosing and interpreting bioelectric data, using signal processing techniques;
+  * Develop System Security engineering approach, &amp; security accreditation &amp; authorization plan;
+  * Advise and assist in the application of instrumentation in clinical environments;
+  * Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals;
+  * Design and develop medical diagnostic and clinical instrumentation, equipment, and procedures, utilizing the principles of engineering and bio-behavioral sciences;
+  * Develop models or computer simulations of human bio-behavioral systems in order to obtain data for measuring or controlling life processes;
+  * Evaluate the safety, efficiency, and effectiveness of biomedical equipment;
+  * Install, adjust, maintain, and/or repair biomedical equipment;
+  * Research new materials to be used for products such as implanted artificial organs;
+  * Adapt or design computer hardware or software for medical science uses;
+  * Advise hospital administrators on the planning, acquisition, and use of medical equipment;
+  * Analyze new medical procedures in order to forecast likely outcomes;
+  * Design and deliver technology to assist people with disabilities;
+  * Develop new applications for energy sources, such as using nuclear power for biomedical implants;
+  * Diagnose and interpret bioelectric data, using signal processing techniques; and Only those candidates who meet all the required qualifications will be contacted;
+  * Engineering: 8 years;
+
+  * Design, prototype and implement capabilities or improvements to new or existing platforms and processes including but not limited to user interface, component integration, control systems, data analysis and error mitigation.;
+  * Design and develop software to operate and/or control instruments.;
+  * Develop tools to analyze data and carry out the data analysis.;
+  * Create and perform experiments to troubleshoot, or verify and validate instruments and processes.;
+  * Work in compliance with ISO 13485 and internal quality system.;
+  * Follow good documentation practices according to company standards in developing and maintaining products and processes.;
+  * Perform duties under the guidance of the product team leader.;
+  * Assist with development or project work as requested from time to time to support STEMCELL corporate initiatives.;
+  * Degree in Biomedical, Systems or Computer Engineering or similar field.;
+  * 1.5 or more years of work, internship or co-op experience in a related field.;
+  * Experience with good coding practices in developing software under C/C++ or similar programming language.;
+  * Practical experience working with tools and test equipment.;
+  * Knowledge in design control or design methodology is preferable.;
+  * Experience with developing products for diagnostic or clinical applications is an asset.;
+  * Good problem solving and troubleshooting skills with a systematic analytical approach.;
+  * Excellent communication (oral and written) and interpersonal skills with the ability to work effectively in a team.;
+  * Self-motivated with the ability to complete tasks in a timely manner.;
+  * Reliable and dependable with the ability to follow instructions and adhere to guidelines.;
+  * Highly organized with strong attention to detail and accuracy.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Previous Experience: 1 year;
+  * High school or equivalent;
+
+
+
+  * Assist in the design of cutting-edge medical devices through prototyping, testing and modeling.;
+  * Develop validation plans and conduct validation testing;
+  * Develop and test new manufacturing processes;
+  * Support production activities;
+  * Support regulatory filings to various government bodies;
+  * Support the development of intellectual property;
+  * Support pre-clinical and clinical research activities;
+  * Assist in DFM (Design for Manufacturing) activities;
+  * Fluid mechanics degree required;
+  * Experience in experimental fluid mechanics preferred, such as with particle image velocimeter;
+  * Knowledge of thermal dynamics desired;
+  * Mechanical aptitude, rapid prototyping;
+  * Possess a strong interest in biomedical technology;
+  * Candidates should be self-starters and have a hands-on approach;
+  * Ability to work independently and with a diverse group of engineers and production staff;
+  * Superior communication skills (verbal/written) and demonstrate strong leadership skills;
+  * Candidates must demonstrate creativity, enthusiasm and a positive attitude;
+
+
+
+  * Current certification as at minimum 3rd class Stationary Engineer.;
+  * Community college diploma program in Building Operations, Relevant Trade (e.g., Electrician, Mechanical, etc.), or recognized equivalent required.;
+  * Five years facility management experience at the operations level with at least three years of supervisory/management experience.;
+  * Three years’ experience in the role as Chief Engineer, managing the operations of a 24/7 steam boiler plant.;
+  * Hospital experience preferred.;
+  * Knowledge of applicable Codes;
+  * Excellent organizational planning, time management, interpersonal and customer service skills;
+  * Excellent analytical, problem resolution and labour relations skills required;
+  * Ability to read and write English and to interpret basic mechanical, electrical and structural drawings.;
+  * Maintain multiple reporting channels;
+  * Maintain and demonstrate knowledge of industry standards, Hospital policies and procedures (including internal “Codes”), financial control principles, hazardous and biomedical waste procedures and WHMIS and OHS regulations;
+  * Ability to implement sustainable, beneficial change;
+  * Knowledge of collective agreements and managing a unionized labour force required;
+  * Computer literacy required;
+  * Excellent management and leadership skills required;
+  * Ability to manage budgets required;
+  * Must be able to handle after hours emergency situations on occasion.;
+  * Requires a high degree of planning and coordinating skills on a continuing basis.;
+
+  * Work directly with peers/cross-functional teams; manufacturing process improvement, quality, regulatory affairs, and engineering service;
+  * Extract raw quality data from various software data systems and accurately and thoroughly analyze using appropriate statistical guidelines; complete data analysis support in a timely manner;
+  * Support manufacturing technology group with data requests and analyses; prioritize incoming data request(s;
+  * Monitor key performance indicators and alert Manager of negative trends in process or product quality;
+  * Generate statistical process control charts and use of other SPC tools;
+  * Gather and understand manufacturing and quality data metric requirements for reporting needs; support business functions and statistical processing;
+  * Use problem solving process-type thinking to propose and identify root cause;
+  * Utilize programing and other software skills to build on existing tools and/or make recommendations for other tools and software;
+  * Continuously improve processes while ensuring that FDA QSR(GMP), ISO 13485, MDD, CMDCAS and/or other national or international standards are continuously met;
+  * 3-4 years of pharma or biotech industry experience;
+  * Expertise in Matlab, data modeling and analysis, especially in PCA/PLS, statistical analysis is a bonus;
+  * Ability to make timely evaluations which are appropriately supported by data;
+  * SAS Programming experience;
+  * Excellent demonstrated interpersonal, presentation and communication skills;
+  * Ability to effectively work in cross-functional groups and use technical expertise to influence business decisions;
+  * Adapt and respond to requests from across the business while being aware of impact of response;
+  * Operate in collaboration with study personnel, provide input on analysis conduct of each study;
+  * Flexible with the ability to adapt, respond quickly and manage change in a fast paced environment;
+  * High level of familiarity with MS Office package (Microsoft Project, Powerpoint, Excel, Word;
+  * Multi-tasking and project management skills;
+  * Excellent organization, troubleshooting, report writing and analytical skills;
+  * Chemical or Biomedical Engineer with Masters or Ph.D with SAS programming experience;
+  * Available to start immediately;
+  * Project management or equivalent experience would be an asset;
+  * Greater Toronto Area, ON;
+  * pharma or biotech industry experience with experience in Matlab and SAS programming: 3 years;
+  * Master's;
+  * Good oral and written communication skills;
+
+
+
+
+  * Design, prototype and implement capabilities or improvements to new or existing platforms and processes including but not limited to user interface, component integration, control systems, data analysis and error mitigation.;
+  * Design and develop software to operate and/or control instruments.;
+  * Develop tools to analyze data and carry out the data analysis.;
+  * Create and perform experiments to troubleshoot, or verify and validate instruments and processes.;
+  * Work in compliance with ISO 13485 and internal quality system.;
+  * Follow good documentation practices according to company standards in developing and maintaining products and processes.;
+  * Perform duties under the guidance of the product team leader.;
+  * Assist with development or project work as requested from time to time to support STEMCELL corporate initiatives.;
+  * Degree in Biomedical, Systems or Computer Engineering or similar field.;
+  * 1.5 or more years of work, internship or co-op experience in a related field.;
+  * Experience with good coding practices in developing software under C/C++ or similar programming language.;
+  * Practical experience working with tools and test equipment.;
+  * Knowledge in design control or design methodology is preferable.;
+  * Experience with developing products for diagnostic or clinical applications is an asset.;
+  * Good problem solving and troubleshooting skills with a systematic analytical approach.;
+  * Excellent communication (oral and written) and interpersonal skills with the ability to work effectively in a team.;
+  * Self-motivated with the ability to complete tasks in a timely manner.;
+  * Reliable and dependable with the ability to follow instructions and adhere to guidelines.;
+  * Highly organized with strong attention to detail and accuracy.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Previous Experience: 1 year;
+  * High school or equivalent;
+
+
+
+  * Assist in the design of cutting-edge medical devices through prototyping, testing and modeling.;
+  * Develop validation plans and conduct validation testing;
+  * Develop and test new manufacturing processes;
+  * Support production activities;
+  * Support regulatory filings to various government bodies;
+  * Support the development of intellectual property;
+  * Support pre-clinical and clinical research activities;
+  * Assist in DFM (Design for Manufacturing) activities;
+  * Fluid mechanics degree required;
+  * Experience in experimental fluid mechanics preferred, such as with particle image velocimeter;
+  * Knowledge of thermal dynamics desired;
+  * Mechanical aptitude, rapid prototyping;
+  * Possess a strong interest in biomedical technology;
+  * Candidates should be self-starters and have a hands-on approach;
+  * Ability to work independently and with a diverse group of engineers and production staff;
+  * Superior communication skills (verbal/written) and demonstrate strong leadership skills;
+  * Candidates must demonstrate creativity, enthusiasm and a positive attitude;
+
+
+
+  * Current certification as at minimum 3rd class Stationary Engineer.;
+  * Community college diploma program in Building Operations, Relevant Trade (e.g., Electrician, Mechanical, etc.), or recognized equivalent required.;
+  * Five years facility management experience at the operations level with at least three years of supervisory/management experience.;
+  * Three years’ experience in the role as Chief Engineer, managing the operations of a 24/7 steam boiler plant.;
+  * Hospital experience preferred.;
+  * Knowledge of applicable Codes;
+  * Excellent organizational planning, time management, interpersonal and customer service skills;
+  * Excellent analytical, problem resolution and labour relations skills required;
+  * Ability to read and write English and to interpret basic mechanical, electrical and structural drawings.;
+  * Maintain multiple reporting channels;
+  * Maintain and demonstrate knowledge of industry standards, Hospital policies and procedures (including internal “Codes”), financial control principles, hazardous and biomedical waste procedures and WHMIS and OHS regulations;
+  * Ability to implement sustainable, beneficial change;
+  * Knowledge of collective agreements and managing a unionized labour force required;
+  * Computer literacy required;
+  * Excellent management and leadership skills required;
+  * Ability to manage budgets required;
+  * Must be able to handle after hours emergency situations on occasion.;
+  * Requires a high degree of planning and coordinating skills on a continuing basis.;
+
+  * Work directly with peers/cross-functional teams; manufacturing process improvement, quality, regulatory affairs, and engineering service;
+  * Extract raw quality data from various software data systems and accurately and thoroughly analyze using appropriate statistical guidelines; complete data analysis support in a timely manner;
+  * Support manufacturing technology group with data requests and analyses; prioritize incoming data request(s;
+  * Monitor key performance indicators and alert Manager of negative trends in process or product quality;
+  * Generate statistical process control charts and use of other SPC tools;
+  * Gather and understand manufacturing and quality data metric requirements for reporting needs; support business functions and statistical processing;
+  * Use problem solving process-type thinking to propose and identify root cause;
+  * Utilize programing and other software skills to build on existing tools and/or make recommendations for other tools and software;
+  * Continuously improve processes while ensuring that FDA QSR(GMP), ISO 13485, MDD, CMDCAS and/or other national or international standards are continuously met;
+  * 3-4 years of pharma or biotech industry experience;
+  * Expertise in Matlab, data modeling and analysis, especially in PCA/PLS, statistical analysis is a bonus;
+  * Ability to make timely evaluations which are appropriately supported by data;
+  * SAS Programming experience;
+  * Excellent demonstrated interpersonal, presentation and communication skills;
+  * Ability to effectively work in cross-functional groups and use technical expertise to influence business decisions;
+  * Adapt and respond to requests from across the business while being aware of impact of response;
+  * Operate in collaboration with study personnel, provide input on analysis conduct of each study;
+  * Flexible with the ability to adapt, respond quickly and manage change in a fast paced environment;
+  * High level of familiarity with MS Office package (Microsoft Project, Powerpoint, Excel, Word;
+  * Multi-tasking and project management skills;
+  * Excellent organization, troubleshooting, report writing and analytical skills;
+  * Chemical or Biomedical Engineer with Masters or Ph.D with SAS programming experience;
+  * Available to start immediately;
+  * Project management or equivalent experience would be an asset;
+  * Greater Toronto Area, ON;
+  * pharma or biotech industry experience with experience in Matlab and SAS programming: 3 years;
+  * Master's;
+  * Good oral and written communication skills;
+
+
+
+
+  * Design, prototype and implement capabilities or improvements to new or existing platforms and processes including but not limited to user interface, component integration, control systems, data analysis and error mitigation.;
+  * Design and develop software to operate and/or control instruments.;
+  * Develop tools to analyze data and carry out the data analysis.;
+  * Create and perform experiments to troubleshoot, or verify and validate instruments and processes.;
+  * Work in compliance with ISO 13485 and internal quality system.;
+  * Follow good documentation practices according to company standards in developing and maintaining products and processes.;
+  * Perform duties under the guidance of the product team leader.;
+  * Assist with development or project work as requested from time to time to support STEMCELL corporate initiatives.;
+  * Degree in Biomedical, Systems or Computer Engineering or similar field.;
+  * 1.5 or more years of work, internship or co-op experience in a related field.;
+  * Experience with good coding practices in developing software under C/C++ or similar programming language.;
+  * Practical experience working with tools and test equipment.;
+  * Knowledge in design control or design methodology is preferable.;
+  * Experience with developing products for diagnostic or clinical applications is an asset.;
+  * Good problem solving and troubleshooting skills with a systematic analytical approach.;
+  * Excellent communication (oral and written) and interpersonal skills with the ability to work effectively in a team.;
+  * Self-motivated with the ability to complete tasks in a timely manner.;
+  * Reliable and dependable with the ability to follow instructions and adhere to guidelines.;
+  * Highly organized with strong attention to detail and accuracy.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Previous Experience: 1 year;
+  * High school or equivalent;
+
+
+
+  * Assist in the design of cutting-edge medical devices through prototyping, testing and modeling.;
+  * Develop validation plans and conduct validation testing;
+  * Develop and test new manufacturing processes;
+  * Support production activities;
+  * Support regulatory filings to various government bodies;
+  * Support the development of intellectual property;
+  * Support pre-clinical and clinical research activities;
+  * Assist in DFM (Design for Manufacturing) activities;
+  * Fluid mechanics degree required;
+  * Experience in experimental fluid mechanics preferred, such as with particle image velocimeter;
+  * Knowledge of thermal dynamics desired;
+  * Mechanical aptitude, rapid prototyping;
+  * Possess a strong interest in biomedical technology;
+  * Candidates should be self-starters and have a hands-on approach;
+  * Ability to work independently and with a diverse group of engineers and production staff;
+  * Superior communication skills (verbal/written) and demonstrate strong leadership skills;
+  * Candidates must demonstrate creativity, enthusiasm and a positive attitude;
+
+
+
+  * Current certification as at minimum 3rd class Stationary Engineer.;
+  * Community college diploma program in Building Operations, Relevant Trade (e.g., Electrician, Mechanical, etc.), or recognized equivalent required.;
+  * Five years facility management experience at the operations level with at least three years of supervisory/management experience.;
+  * Three years’ experience in the role as Chief Engineer, managing the operations of a 24/7 steam boiler plant.;
+  * Hospital experience preferred.;
+  * Knowledge of applicable Codes;
+  * Excellent organizational planning, time management, interpersonal and customer service skills;
+  * Excellent analytical, problem resolution and labour relations skills required;
+  * Ability to read and write English and to interpret basic mechanical, electrical and structural drawings.;
+  * Maintain multiple reporting channels;
+  * Maintain and demonstrate knowledge of industry standards, Hospital policies and procedures (including internal “Codes”), financial control principles, hazardous and biomedical waste procedures and WHMIS and OHS regulations;
+  * Ability to implement sustainable, beneficial change;
+  * Knowledge of collective agreements and managing a unionized labour force required;
+  * Computer literacy required;
+  * Excellent management and leadership skills required;
+  * Ability to manage budgets required;
+  * Must be able to handle after hours emergency situations on occasion.;
+  * Requires a high degree of planning and coordinating skills on a continuing basis.;
+
+  * Work directly with peers/cross-functional teams; manufacturing process improvement, quality, regulatory affairs, and engineering service;
+  * Extract raw quality data from various software data systems and accurately and thoroughly analyze using appropriate statistical guidelines; complete data analysis support in a timely manner;
+  * Support manufacturing technology group with data requests and analyses; prioritize incoming data request(s;
+  * Monitor key performance indicators and alert Manager of negative trends in process or product quality;
+  * Generate statistical process control charts and use of other SPC tools;
+  * Gather and understand manufacturing and quality data metric requirements for reporting needs; support business functions and statistical processing;
+  * Use problem solving process-type thinking to propose and identify root cause;
+  * Utilize programing and other software skills to build on existing tools and/or make recommendations for other tools and software;
+  * Continuously improve processes while ensuring that FDA QSR(GMP), ISO 13485, MDD, CMDCAS and/or other national or international standards are continuously met;
+  * 3-4 years of pharma or biotech industry experience;
+  * Expertise in Matlab, data modeling and analysis, especially in PCA/PLS, statistical analysis is a bonus;
+  * Ability to make timely evaluations which are appropriately supported by data;
+  * SAS Programming experience;
+  * Excellent demonstrated interpersonal, presentation and communication skills;
+  * Ability to effectively work in cross-functional groups and use technical expertise to influence business decisions;
+  * Adapt and respond to requests from across the business while being aware of impact of response;
+  * Operate in collaboration with study personnel, provide input on analysis conduct of each study;
+  * Flexible with the ability to adapt, respond quickly and manage change in a fast paced environment;
+  * High level of familiarity with MS Office package (Microsoft Project, Powerpoint, Excel, Word;
+  * Multi-tasking and project management skills;
+  * Excellent organization, troubleshooting, report writing and analytical skills;
+  * Chemical or Biomedical Engineer with Masters or Ph.D with SAS programming experience;
+  * Available to start immediately;
+  * Project management or equivalent experience would be an asset;
+  * Greater Toronto Area, ON;
+  * pharma or biotech industry experience with experience in Matlab and SAS programming: 3 years;
+  * Master's;
+  * Good oral and written communication skills;
+
+
+
+
+  * Design, prototype and implement capabilities or improvements to new or existing platforms and processes including but not limited to user interface, component integration, control systems, data analysis and error mitigation.;
+  * Design and develop software to operate and/or control instruments.;
+  * Develop tools to analyze data and carry out the data analysis.;
+  * Create and perform experiments to troubleshoot, or verify and validate instruments and processes.;
+  * Work in compliance with ISO 13485 and internal quality system.;
+  * Follow good documentation practices according to company standards in developing and maintaining products and processes.;
+  * Perform duties under the guidance of the product team leader.;
+  * Assist with development or project work as requested from time to time to support STEMCELL corporate initiatives.;
+  * Degree in Biomedical, Systems or Computer Engineering or similar field.;
+  * 1.5 or more years of work, internship or co-op experience in a related field.;
+  * Experience with good coding practices in developing software under C/C++ or similar programming language.;
+  * Practical experience working with tools and test equipment.;
+  * Knowledge in design control or design methodology is preferable.;
+  * Experience with developing products for diagnostic or clinical applications is an asset.;
+  * Good problem solving and troubleshooting skills with a systematic analytical approach.;
+  * Excellent communication (oral and written) and interpersonal skills with the ability to work effectively in a team.;
+  * Self-motivated with the ability to complete tasks in a timely manner.;
+  * Reliable and dependable with the ability to follow instructions and adhere to guidelines.;
+  * Highly organized with strong attention to detail and accuracy.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Previous Experience: 1 year;
+  * High school or equivalent;
+
+
+
+  * Assist in the design of cutting-edge medical devices through prototyping, testing and modeling.;
+  * Develop validation plans and conduct validation testing;
+  * Develop and test new manufacturing processes;
+  * Support production activities;
+  * Support regulatory filings to various government bodies;
+  * Support the development of intellectual property;
+  * Support pre-clinical and clinical research activities;
+  * Assist in DFM (Design for Manufacturing) activities;
+  * Fluid mechanics degree required;
+  * Experience in experimental fluid mechanics preferred, such as with particle image velocimeter;
+  * Knowledge of thermal dynamics desired;
+  * Mechanical aptitude, rapid prototyping;
+  * Possess a strong interest in biomedical technology;
+  * Candidates should be self-starters and have a hands-on approach;
+  * Ability to work independently and with a diverse group of engineers and production staff;
+  * Superior communication skills (verbal/written) and demonstrate strong leadership skills;
+  * Candidates must demonstrate creativity, enthusiasm and a positive attitude;
+
+
+
+  * Current certification as at minimum 3rd class Stationary Engineer.;
+  * Community college diploma program in Building Operations, Relevant Trade (e.g., Electrician, Mechanical, etc.), or recognized equivalent required.;
+  * Five years facility management experience at the operations level with at least three years of supervisory/management experience.;
+  * Three years’ experience in the role as Chief Engineer, managing the operations of a 24/7 steam boiler plant.;
+  * Hospital experience preferred.;
+  * Knowledge of applicable Codes;
+  * Excellent organizational planning, time management, interpersonal and customer service skills;
+  * Excellent analytical, problem resolution and labour relations skills required;
+  * Ability to read and write English and to interpret basic mechanical, electrical and structural drawings.;
+  * Maintain multiple reporting channels;
+  * Maintain and demonstrate knowledge of industry standards, Hospital policies and procedures (including internal “Codes”), financial control principles, hazardous and biomedical waste procedures and WHMIS and OHS regulations;
+  * Ability to implement sustainable, beneficial change;
+  * Knowledge of collective agreements and managing a unionized labour force required;
+  * Computer literacy required;
+  * Excellent management and leadership skills required;
+  * Ability to manage budgets required;
+  * Must be able to handle after hours emergency situations on occasion.;
+  * Requires a high degree of planning and coordinating skills on a continuing basis.;
+
+  * Work directly with peers/cross-functional teams; manufacturing process improvement, quality, regulatory affairs, and engineering service;
+  * Extract raw quality data from various software data systems and accurately and thoroughly analyze using appropriate statistical guidelines; complete data analysis support in a timely manner;
+  * Support manufacturing technology group with data requests and analyses; prioritize incoming data request(s;
+  * Monitor key performance indicators and alert Manager of negative trends in process or product quality;
+  * Generate statistical process control charts and use of other SPC tools;
+  * Gather and understand manufacturing and quality data metric requirements for reporting needs; support business functions and statistical processing;
+  * Use problem solving process-type thinking to propose and identify root cause;
+  * Utilize programing and other software skills to build on existing tools and/or make recommendations for other tools and software;
+  * Continuously improve processes while ensuring that FDA QSR(GMP), ISO 13485, MDD, CMDCAS and/or other national or international standards are continuously met;
+  * 3-4 years of pharma or biotech industry experience;
+  * Expertise in Matlab, data modeling and analysis, especially in PCA/PLS, statistical analysis is a bonus;
+  * Ability to make timely evaluations which are appropriately supported by data;
+  * SAS Programming experience;
+  * Excellent demonstrated interpersonal, presentation and communication skills;
+  * Ability to effectively work in cross-functional groups and use technical expertise to influence business decisions;
+  * Adapt and respond to requests from across the business while being aware of impact of response;
+  * Operate in collaboration with study personnel, provide input on analysis conduct of each study;
+  * Flexible with the ability to adapt, respond quickly and manage change in a fast paced environment;
+  * High level of familiarity with MS Office package (Microsoft Project, Powerpoint, Excel, Word;
+  * Multi-tasking and project management skills;
+  * Excellent organization, troubleshooting, report writing and analytical skills;
+  * Chemical or Biomedical Engineer with Masters or Ph.D with SAS programming experience;
+  * Available to start immediately;
+  * Project management or equivalent experience would be an asset;
+  * Greater Toronto Area, ON;
+  * pharma or biotech industry experience with experience in Matlab and SAS programming: 3 years;
+  * Master's;
+  * Good oral and written communication skills;
+
+
+
+
+  * Design, prototype and implement capabilities or improvements to new or existing platforms and processes including but not limited to user interface, component integration, control systems, data analysis and error mitigation.;
+  * Design and develop software to operate and/or control instruments.;
+  * Develop tools to analyze data and carry out the data analysis.;
+  * Create and perform experiments to troubleshoot, or verify and validate instruments and processes.;
+  * Work in compliance with ISO 13485 and internal quality system.;
+  * Follow good documentation practices according to company standards in developing and maintaining products and processes.;
+  * Perform duties under the guidance of the product team leader.;
+  * Assist with development or project work as requested from time to time to support STEMCELL corporate initiatives.;
+  * Degree in Biomedical, Systems or Computer Engineering or similar field.;
+  * 1.5 or more years of work, internship or co-op experience in a related field.;
+  * Experience with good coding practices in developing software under C/C++ or similar programming language.;
+  * Practical experience working with tools and test equipment.;
+  * Knowledge in design control or design methodology is preferable.;
+  * Experience with developing products for diagnostic or clinical applications is an asset.;
+  * Good problem solving and troubleshooting skills with a systematic analytical approach.;
+  * Excellent communication (oral and written) and interpersonal skills with the ability to work effectively in a team.;
+  * Self-motivated with the ability to complete tasks in a timely manner.;
+  * Reliable and dependable with the ability to follow instructions and adhere to guidelines.;
+  * Highly organized with strong attention to detail and accuracy.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Previous Experience: 1 year;
+  * High school or equivalent;
+
+
+
+  * Assist in the design of cutting-edge medical devices through prototyping, testing and modeling.;
+  * Develop validation plans and conduct validation testing;
+  * Develop and test new manufacturing processes;
+  * Support production activities;
+  * Support regulatory filings to various government bodies;
+  * Support the development of intellectual property;
+  * Support pre-clinical and clinical research activities;
+  * Assist in DFM (Design for Manufacturing) activities;
+  * Fluid mechanics degree required;
+  * Experience in experimental fluid mechanics preferred, such as with particle image velocimeter;
+  * Knowledge of thermal dynamics desired;
+  * Mechanical aptitude, rapid prototyping;
+  * Possess a strong interest in biomedical technology;
+  * Candidates should be self-starters and have a hands-on approach;
+  * Ability to work independently and with a diverse group of engineers and production staff;
+  * Superior communication skills (verbal/written) and demonstrate strong leadership skills;
+  * Candidates must demonstrate creativity, enthusiasm and a positive attitude;
+
+
+
+  * Current certification as at minimum 3rd class Stationary Engineer.;
+  * Community college diploma program in Building Operations, Relevant Trade (e.g., Electrician, Mechanical, etc.), or recognized equivalent required.;
+  * Five years facility management experience at the operations level with at least three years of supervisory/management experience.;
+  * Three years’ experience in the role as Chief Engineer, managing the operations of a 24/7 steam boiler plant.;
+  * Hospital experience preferred.;
+  * Knowledge of applicable Codes;
+  * Excellent organizational planning, time management, interpersonal and customer service skills;
+  * Excellent analytical, problem resolution and labour relations skills required;
+  * Ability to read and write English and to interpret basic mechanical, electrical and structural drawings.;
+  * Maintain multiple reporting channels;
+  * Maintain and demonstrate knowledge of industry standards, Hospital policies and procedures (including internal “Codes”), financial control principles, hazardous and biomedical waste procedures and WHMIS and OHS regulations;
+  * Ability to implement sustainable, beneficial change;
+  * Knowledge of collective agreements and managing a unionized labour force required;
+  * Computer literacy required;
+  * Excellent management and leadership skills required;
+  * Ability to manage budgets required;
+  * Must be able to handle after hours emergency situations on occasion.;
+  * Requires a high degree of planning and coordinating skills on a continuing basis.;
+
+  * Work directly with peers/cross-functional teams; manufacturing process improvement, quality, regulatory affairs, and engineering service;
+  * Extract raw quality data from various software data systems and accurately and thoroughly analyze using appropriate statistical guidelines; complete data analysis support in a timely manner;
+  * Support manufacturing technology group with data requests and analyses; prioritize incoming data request(s;
+  * Monitor key performance indicators and alert Manager of negative trends in process or product quality;
+  * Generate statistical process control charts and use of other SPC tools;
+  * Gather and understand manufacturing and quality data metric requirements for reporting needs; support business functions and statistical processing;
+  * Use problem solving process-type thinking to propose and identify root cause;
+  * Utilize programing and other software skills to build on existing tools and/or make recommendations for other tools and software;
+  * Continuously improve processes while ensuring that FDA QSR(GMP), ISO 13485, MDD, CMDCAS and/or other national or international standards are continuously met;
+  * 3-4 years of pharma or biotech industry experience;
+  * Expertise in Matlab, data modeling and analysis, especially in PCA/PLS, statistical analysis is a bonus;
+  * Ability to make timely evaluations which are appropriately supported by data;
+  * SAS Programming experience;
+  * Excellent demonstrated interpersonal, presentation and communication skills;
+  * Ability to effectively work in cross-functional groups and use technical expertise to influence business decisions;
+  * Adapt and respond to requests from across the business while being aware of impact of response;
+  * Operate in collaboration with study personnel, provide input on analysis conduct of each study;
+  * Flexible with the ability to adapt, respond quickly and manage change in a fast paced environment;
+  * High level of familiarity with MS Office package (Microsoft Project, Powerpoint, Excel, Word;
+  * Multi-tasking and project management skills;
+  * Excellent organization, troubleshooting, report writing and analytical skills;
+  * Chemical or Biomedical Engineer with Masters or Ph.D with SAS programming experience;
+  * Available to start immediately;
+  * Project management or equivalent experience would be an asset;
+  * Greater Toronto Area, ON;
+  * pharma or biotech industry experience with experience in Matlab and SAS programming: 3 years;
+  * Master's;
+  * Good oral and written communication skills;
+
+
+
+
+  * Design, prototype and implement capabilities or improvements to new or existing platforms and processes including but not limited to user interface, component integration, control systems, data analysis and error mitigation.;
+  * Design and develop software to operate and/or control instruments.;
+  * Develop tools to analyze data and carry out the data analysis.;
+  * Create and perform experiments to troubleshoot, or verify and validate instruments and processes.;
+  * Work in compliance with ISO 13485 and internal quality system.;
+  * Follow good documentation practices according to company standards in developing and maintaining products and processes.;
+  * Perform duties under the guidance of the product team leader.;
+  * Assist with development or project work as requested from time to time to support STEMCELL corporate initiatives.;
+  * Degree in Biomedical, Systems or Computer Engineering or similar field.;
+  * 1.5 or more years of work, internship or co-op experience in a related field.;
+  * Experience with good coding practices in developing software under C/C++ or similar programming language.;
+  * Practical experience working with tools and test equipment.;
+  * Knowledge in design control or design methodology is preferable.;
+  * Experience with developing products for diagnostic or clinical applications is an asset.;
+  * Good problem solving and troubleshooting skills with a systematic analytical approach.;
+  * Excellent communication (oral and written) and interpersonal skills with the ability to work effectively in a team.;
+  * Self-motivated with the ability to complete tasks in a timely manner.;
+  * Reliable and dependable with the ability to follow instructions and adhere to guidelines.;
+  * Highly organized with strong attention to detail and accuracy.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Previous Experience: 1 year;
+  * High school or equivalent;
+
+
+
+  * Assist in the design of cutting-edge medical devices through prototyping, testing and modeling.;
+  * Develop validation plans and conduct validation testing;
+  * Develop and test new manufacturing processes;
+  * Support production activities;
+  * Support regulatory filings to various government bodies;
+  * Support the development of intellectual property;
+  * Support pre-clinical and clinical research activities;
+  * Assist in DFM (Design for Manufacturing) activities;
+  * Fluid mechanics degree required;
+  * Experience in experimental fluid mechanics preferred, such as with particle image velocimeter;
+  * Knowledge of thermal dynamics desired;
+  * Mechanical aptitude, rapid prototyping;
+  * Possess a strong interest in biomedical technology;
+  * Candidates should be self-starters and have a hands-on approach;
+  * Ability to work independently and with a diverse group of engineers and production staff;
+  * Superior communication skills (verbal/written) and demonstrate strong leadership skills;
+  * Candidates must demonstrate creativity, enthusiasm and a positive attitude;
+
+
+
+  * Current certification as at minimum 3rd class Stationary Engineer.;
+  * Community college diploma program in Building Operations, Relevant Trade (e.g., Electrician, Mechanical, etc.), or recognized equivalent required.;
+  * Five years facility management experience at the operations level with at least three years of supervisory/management experience.;
+  * Three years’ experience in the role as Chief Engineer, managing the operations of a 24/7 steam boiler plant.;
+  * Hospital experience preferred.;
+  * Knowledge of applicable Codes;
+  * Excellent organizational planning, time management, interpersonal and customer service skills;
+  * Excellent analytical, problem resolution and labour relations skills required;
+  * Ability to read and write English and to interpret basic mechanical, electrical and structural drawings.;
+  * Maintain multiple reporting channels;
+  * Maintain and demonstrate knowledge of industry standards, Hospital policies and procedures (including internal “Codes”), financial control principles, hazardous and biomedical waste procedures and WHMIS and OHS regulations;
+  * Ability to implement sustainable, beneficial change;
+  * Knowledge of collective agreements and managing a unionized labour force required;
+  * Computer literacy required;
+  * Excellent management and leadership skills required;
+  * Ability to manage budgets required;
+  * Must be able to handle after hours emergency situations on occasion.;
+  * Requires a high degree of planning and coordinating skills on a continuing basis.;
+
+  * Work directly with peers/cross-functional teams; manufacturing process improvement, quality, regulatory affairs, and engineering service;
+  * Extract raw quality data from various software data systems and accurately and thoroughly analyze using appropriate statistical guidelines; complete data analysis support in a timely manner;
+  * Support manufacturing technology group with data requests and analyses; prioritize incoming data request(s;
+  * Monitor key performance indicators and alert Manager of negative trends in process or product quality;
+  * Generate statistical process control charts and use of other SPC tools;
+  * Gather and understand manufacturing and quality data metric requirements for reporting needs; support business functions and statistical processing;
+  * Use problem solving process-type thinking to propose and identify root cause;
+  * Utilize programing and other software skills to build on existing tools and/or make recommendations for other tools and software;
+  * Continuously improve processes while ensuring that FDA QSR(GMP), ISO 13485, MDD, CMDCAS and/or other national or international standards are continuously met;
+  * 3-4 years of pharma or biotech industry experience;
+  * Expertise in Matlab, data modeling and analysis, especially in PCA/PLS, statistical analysis is a bonus;
+  * Ability to make timely evaluations which are appropriately supported by data;
+  * SAS Programming experience;
+  * Excellent demonstrated interpersonal, presentation and communication skills;
+  * Ability to effectively work in cross-functional groups and use technical expertise to influence business decisions;
+  * Adapt and respond to requests from across the business while being aware of impact of response;
+  * Operate in collaboration with study personnel, provide input on analysis conduct of each study;
+  * Flexible with the ability to adapt, respond quickly and manage change in a fast paced environment;
+  * High level of familiarity with MS Office package (Microsoft Project, Powerpoint, Excel, Word;
+  * Multi-tasking and project management skills;
+  * Excellent organization, troubleshooting, report writing and analytical skills;
+  * Chemical or Biomedical Engineer with Masters or Ph.D with SAS programming experience;
+  * Available to start immediately;
+  * Project management or equivalent experience would be an asset;
+  * Greater Toronto Area, ON;
+  * pharma or biotech industry experience with experience in Matlab and SAS programming: 3 years;
+  * Master's;
+  * Good oral and written communication skills;
+
+
+
+
+  * Design, prototype and implement capabilities or improvements to new or existing platforms and processes including but not limited to user interface, component integration, control systems, data analysis and error mitigation.;
+  * Design and develop software to operate and/or control instruments.;
+  * Develop tools to analyze data and carry out the data analysis.;
+  * Create and perform experiments to troubleshoot, or verify and validate instruments and processes.;
+  * Work in compliance with ISO 13485 and internal quality system.;
+  * Follow good documentation practices according to company standards in developing and maintaining products and processes.;
+  * Perform duties under the guidance of the product team leader.;
+  * Assist with development or project work as requested from time to time to support STEMCELL corporate initiatives.;
+  * Degree in Biomedical, Systems or Computer Engineering or similar field.;
+  * 1.5 or more years of work, internship or co-op experience in a related field.;
+  * Experience with good coding practices in developing software under C/C++ or similar programming language.;
+  * Practical experience working with tools and test equipment.;
+  * Knowledge in design control or design methodology is preferable.;
+  * Experience with developing products for diagnostic or clinical applications is an asset.;
+  * Good problem solving and troubleshooting skills with a systematic analytical approach.;
+  * Excellent communication (oral and written) and interpersonal skills with the ability to work effectively in a team.;
+  * Self-motivated with the ability to complete tasks in a timely manner.;
+  * Reliable and dependable with the ability to follow instructions and adhere to guidelines.;
+  * Highly organized with strong attention to detail and accuracy.;
+
+  * Shipping / Receiving - Able to lift 50lbs;
+  * Incoming QC Inspections;
+  * Inventory Management;
+  * Comply with Datrend quality standards and documentation;
+  * Maintain bench work area, tools, and equipment in a clean, orderly, and functional manner;
+  * Identify process discrepancies and report non-conformances;
+  * Other duties as assigned;
+  * Minimum Grade 12, or equivalent;
+  * Previous experience with NAFTA, HTCs, Incoterms and international shipping a definite asset;
+  * Understanding of Quality procedures, as applicable;
+  * Experience working in ISO13845 / 9000 Quality Systems an asset;
+  * Knowledge of general safety principles;
+  * Good manual dexterity;
+  * Team Player;
+  * Excellent time management skills;
+  * Ability to lift up to 50 pounds;
+  * Previous Experience: 1 year;
+  * High school or equivalent;
+
+
+
+  * Assist in the design of cutting-edge medical devices through prototyping, testing and modeling.;
+  * Develop validation plans and conduct validation testing;
+  * Develop and test new manufacturing processes;
+  * Support production activities;
+  * Support regulatory filings to various government bodies;
+  * Support the development of intellectual property;
+  * Support pre-clinical and clinical research activities;
+  * Assist in DFM (Design for Manufacturing) activities;
+  * Fluid mechanics degree required;
+  * Experience in experimental fluid mechanics preferred, such as with particle image velocimeter;
+  * Knowledge of thermal dynamics desired;
+  * Mechanical aptitude, rapid prototyping;
+  * Possess a strong interest in biomedical technology;
+  * Candidates should be self-starters and have a hands-on approach;
+  * Ability to work independently and with a diverse group of engineers and production staff;
+  * Superior communication skills (verbal/written) and demonstrate strong leadership skills;
+  * Candidates must demonstrate creativity, enthusiasm and a positive attitude;
+
+
+
+  * Current certification as at minimum 3rd class Stationary Engineer.;
+  * Community college diploma program in Building Operations, Relevant Trade (e.g., Electrician, Mechanical, etc.), or recognized equivalent required.;
+  * Five years facility management experience at the operations level with at least three years of supervisory/management experience.;
+  * Three years’ experience in the role as Chief Engineer, managing the operations of a 24/7 steam boiler plant.;
+  * Hospital experience preferred.;
+  * Knowledge of applicable Codes;
+  * Excellent organizational planning, time management, interpersonal and customer service skills;
+  * Excellent analytical, problem resolution and labour relations skills required;
+  * Ability to read and write English and to interpret basic mechanical, electrical and structural drawings.;
+  * Maintain multiple reporting channels;
+  * Maintain and demonstrate knowledge of industry standards, Hospital policies and procedures (including internal “Codes”), financial control principles, hazardous and biomedical waste procedures and WHMIS and OHS regulations;
+  * Ability to implement sustainable, beneficial change;
+  * Knowledge of collective agreements and managing a unionized labour force required;
+  * Computer literacy required;
+  * Excellent management and leadership skills required;
+  * Ability to manage budgets required;
+  * Must be able to handle after hours emergency situations on occasion.;
+  * Requires a high degree of planning and coordinating skills on a continuing basis.;
+
+  * Work directly with peers/cross-functional teams; manufacturing process improvement, quality, regulatory affairs, and engineering service;
+  * Extract raw quality data from various software data systems and accurately and thoroughly analyze using appropriate statistical guidelines; complete data analysis support in a timely manner;
+  * Support manufacturing technology group with data requests and analyses; prioritize incoming data request(s;
+  * Monitor key performance indicators and alert Manager of negative trends in process or product quality;
+  * Generate statistical process control charts and use of other SPC tools;
+  * Gather and understand manufacturing and quality data metric requirements for reporting needs; support business functions and statistical processing;
+  * Use problem solving process-type thinking to propose and identify root cause;
+  * Utilize programing and other software skills to build on existing tools and/or make recommendations for other tools and software;
+  * Continuously improve processes while ensuring that FDA QSR(GMP), ISO 13485, MDD, CMDCAS and/or other national or international standards are continuously met;
+  * 3-4 years of pharma or biotech industry experience;
+  * Expertise in Matlab, data modeling and analysis, especially in PCA/PLS, statistical analysis is a bonus;
+  * Ability to make timely evaluations which are appropriately supported by data;
+  * SAS Programming experience;
+  * Excellent demonstrated interpersonal, presentation and communication skills;
+  * Ability to effectively work in cross-functional groups and use technical expertise to influence business decisions;
+  * Adapt and respond to requests from across the business while being aware of impact of response;
+  * Operate in collaboration with study personnel, provide input on analysis conduct of each study;
+  * Flexible with the ability to adapt, respond quickly and manage change in a fast paced environment;
+  * High level of familiarity with MS Office package (Microsoft Project, Powerpoint, Excel, Word;
+  * Multi-tasking and project management skills;
+  * Excellent organization, troubleshooting, report writing and analytical skills;
+  * Chemical or Biomedical Engineer with Masters or Ph.D with SAS programming experience;
+  * Available to start immediately;
+  * Project management or equivalent experience would be an asset;
+  * Greater Toronto Area, ON;
+  * pharma or biotech industry experience with experience in Matlab and SAS programming: 3 years;
+  * Master's;
+  * Good oral and written communication skills;
+
+
+

@@ -81,37 +81,38 @@ def show_entries():
 def add_entry():
    #g.db.execute('insert into entries (title, text) values (?, ?)', [request.form['title'], request.form['text']])
    #g.db.commit()
-   spacedJobTitle = request.form['jobtitle']
-   jobTitle = request.form['jobtitle'].replace(" ", "+")
+
+   #spacedJobTitle = request.form['jobtitle']
+   jobTitle = request.form['jobtitle'].title()
+   #jobTitle = request.form['jobtitle'].replace(" ", "+")
+   scraping = False
    try:
-     readJobs.mainReadJobs(jobTitle)
+      newJob, jobtitleFilename, jobbulletFilename = readJobs.existingJob(jobTitle, scraping)
+      if newJob:
+         readJobs.mainReadJobs(jobTitle, jobtitleFilename, jobbulletFilename, 5)
+      #creating the opening and closing 
+      jobfile = codecs.open(jobtitleFilename, encoding='utf-8')
+      markov = markovgen.Markov(jobfile)
 
-     
+      sentences = random.randint(2, 3)
+      theOpening = markov.generate_markov_text(sentences)
+      flash(theOpening,'theOpening' )
 
-     #creating the opening and closing 
-     jobfile = codecs.open('markovJobs.txt', encoding='utf-8')
-     markov = markovgen.Markov(jobfile)
+      sentences = random.randint(2, 3)
+      theClosing = markov.generate_markov_text(sentences)
+      flash(theClosing,'theClosing')
 
-     sentences = random.randint(2, 3)
-     theOpening = markov.generate_markov_text(sentences)
-     flash(theOpening,'theOpening' )
-
-     sentences = random.randint(2, 3)
-     theClosing = markov.generate_markov_text(sentences)
-     flash(theClosing,'theClosing')
-
-
-     bulletHeader = [ 'Key Responsibilities', 'Duties', 'Key Duties and Responsibilities', 'Objectives', 'Qualifications', 'Main Responsibilities']
-     flash(random.choice(bulletHeader),'bulletHeader')
-
-     #creating in the bullet points
-     file = codecs.open('bulletmarkovJobs.txt', encoding='utf-8')
-     markovBullets = markovgen.MarkovBullets(file)
-     flash(spacedJobTitle.title(),'jobtitleMsg' )
-     sentences = random.randint(5, 7)
-     theBullets = markovBullets.generate_markov_text(sentences)
-     flash(theBullets,'bullets' )
-     addInDatabase(spacedJobTitle)
+      if( os.path.isfile(jobbulletFilename) ):
+         bulletHeader = [ 'Key Responsibilities', 'Duties', 'Key Duties and Responsibilities', 'Objectives', 'Qualifications', 'Main Responsibilities']
+         flash(random.choice(bulletHeader),'bulletHeader')
+         #creating in the bullet points
+         file = codecs.open(jobbulletFilename, encoding='utf-8')
+         markovBullets = markovgen.MarkovBullets(file)
+      flash(jobTitle,'jobtitleMsg' )
+      sentences = random.randint(5, 7)
+      theBullets = markovBullets.generate_markov_text(sentences)
+      flash(theBullets,'bullets' )
+      addInDatabase(jobTitle)
    except:
       flash("There was an error in your request....Try Again",'error')  
    return redirect(url_for('show_entries'))

@@ -1,0 +1,39 @@
+
+
+  * Data : PostgreSQL, DynamoDB, Apache Spark, Presto DB, Redis, ElasticSearch;
+  * Backend : Clojure, Scala, Python, bash;
+  * Frontend : old-fashioned HTML and vanilla.js, AngularJS, Google Closure Compiler, misc. jQuery &amp; D3.js;
+  * Development: git (and github.com), $EDITOR, Ubuntu Linux workstations, motorized desks (stand a while, sit a while!);
+  * Collaboration: Asana, Slack;
+  * Infrastructure : AWS and Azure; Graphite and Grafana for metrics; continuous integration courtesy of Jenkins;
+
+  * Understands and follows the company’s processes and procedures for developing vital software;;
+  * Implements real time systems in ‘C’ and with some Assembler;;
+  * Produces the software requirements analysis, designs, codes, debugs, write test procedures and tests software code;;
+  * Analyses, implements correction, and reviews defect reports;;
+  * Perform modelling of vehicle behaviour;;
+  * Prepares reports, giving findings on problems.;
+  * A Bachelor’s Degree in Electrical, Computer Engineering, Computer Science or a related discipline;;
+  * A minimum of two to three (2-3) years of programming experience in Windows using C language;;
+  * Experience in Modelling Control Systems using VisSim Tools;;
+  * Ability to diagnose issues based on field logs and correlate events to failures;;
+  * A good understanding of control theory and PID controllers is considered an asset;;
+  * Knowledge of modelling using Matlab is considered an asset;;
+  * Excellent written and verbal communication skills;
+
+  * Takes on a technical leadership role within projects, develops system specifications and provides technical guidance to the team to ensure schedules and objectives are met.;
+  * Assist the development of Android and Linux based devices.;
+  * Quickly ramps up and becomes a key contributor within a team of experienced Embedded software engineers.;
+  * Fixes issues and provides technical guidance on a wide range of Linux kernel drivers and Android framework HALs from display to USB to Bluetooth to WiFI.;
+  * Stays abreast of technical area and provides knowledge transfer to fellow team members.;
+  * Designs or modifies Hardware Abstraction Libraries for Android support of low-level device features.;
+  * Minimum 3 years Embedded software development experience in Linux kernel. Android experience desirable.;
+  * Minimum 3 years of C/C++ experience. Java experience useful, but not required.;
+  * Bachelor’s degree in computer sciences, electrical/software engineering or equivalent. Advanced technical degree desirable.;
+  * Requires strong leadership and communication skills (written and verbal).;
+  * Experience in the integration of wide range of drivers. Multimedia and telephony experience desirable.;
+  * Good working knowledge of embedded or mobile devices.;
+  * Good problem-solving and diagnostic skills, in a fast-paced environment.;
+  * Requires a solid understanding of the software development and project management life cycle.;
+  * Language: Strong written and spoken English required.;
+
