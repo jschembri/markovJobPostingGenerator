@@ -2,7 +2,7 @@ Readme for Markov Job Posting Generator
 
 Generates Markov Chain text based on data from Indeed.
 
-Hosted on Heroku at: 
+Hosted on Heroku at: https://markovjobpostinggenerator.herokuapp.com/
 See description of project at: http://jeremyschembri.com/portfolio/markov-job-posting-generator/
 
 Resources
